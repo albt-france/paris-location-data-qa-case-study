@@ -1,0 +1,11 @@
+theme,source,status,n
+pharmacy,FINESS,open,59
+pharmacy,OSM,closed,2
+pharmacy,OSM,open,60
+pharmacy,OVERTURE,closed,4
+pharmacy,OVERTURE,open,62
+pharmacy,OVERTURE,unknown,18
+school,EDU,open,96
+school,OSM,open,126
+school,OVERTURE,open,2
+school,OVERTURE,unknown,54

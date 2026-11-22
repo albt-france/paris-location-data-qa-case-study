@@ -1,0 +1,12 @@
+duckdb>=1.5
+pandas
+numpy
+pyarrow
+requests
+pyproj
+openpyxl
+folium
+matplotlib
+pypdf
+jupyter
+nbconvert

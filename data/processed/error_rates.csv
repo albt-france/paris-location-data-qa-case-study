@@ -1,0 +1,5 @@
+query_type,answers,flagged,pct_flagged
+address_lookup,150,24.0,16.0
+category_search,120,53.0,44.2
+find_nearest,190,50.0,26.3
+opening_status,140,56.0,40.0

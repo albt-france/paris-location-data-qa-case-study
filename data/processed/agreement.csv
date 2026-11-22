@@ -1,0 +1,13 @@
+scope,guidelines_version,pair,n,observed_agreement,chance_agreement,cohen_kappa
+all answers,v1,R1-R2,310,0.771,0.453,0.581
+all answers,v2,R1-R2,290,0.914,0.481,0.834
+all answers,v1,R1-R3,310,0.781,0.449,0.602
+all answers,v2,R1-R3,290,0.907,0.476,0.822
+all answers,v1,R2-R3,310,0.794,0.433,0.636
+all answers,v2,R2-R3,290,0.9,0.476,0.809
+opening_status only,v1,R1-R2,75,0.627,0.35,0.426
+opening_status only,v2,R1-R2,65,0.908,0.371,0.853
+opening_status only,v1,R1-R3,75,0.693,0.35,0.528
+opening_status only,v2,R1-R3,65,0.862,0.363,0.783
+opening_status only,v1,R2-R3,75,0.72,0.379,0.549
+opening_status only,v2,R2-R3,65,0.862,0.357,0.785

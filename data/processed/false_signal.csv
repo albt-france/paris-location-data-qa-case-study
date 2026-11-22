@@ -1,0 +1,5 @@
+step,definition,overture,osm,finess
+1,"First count: Overture download box (wider than the 11e), category contains ""pharm""",300,56,59
+2,Same area: only places inside the 11e polygon,84,56,59
+3,Same category: taxonomy = pharmacy (drugstores removed),81,56,59
+4,Same status: open places only (permanently closed and unknown status removed),60,56,59

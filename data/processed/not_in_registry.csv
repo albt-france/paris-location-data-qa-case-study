@@ -1,0 +1,14 @@
+place_id,source,confidence,nearest_finess_m,other_open_source,nearest_sirene_active_m,nearest_sirene_ceased_m,assessment
+P0266,OSM,,46.0,True,49.0,49.0,confirmed by a second source
+P0287,OVERTURE,0.5,69.0,False,70.0,310.0,probable pin offset of a registry pharmacy
+P0289,OVERTURE,0.947,74.0,False,74.0,150.0,probable pin offset of a registry pharmacy
+P0293,OVERTURE,0.88,171.0,False,171.0,27.0,likely stale: ceased SIRENE establishment nearby
+P0310,OVERTURE,0.956,44.0,False,44.0,249.0,confirmed by a second source
+P0380,OVERTURE,0.935,175.0,False,80.0,173.0,cannot verify (desk research only)
+P0403,OVERTURE,0.759,102.0,False,102.0,206.0,probable pin offset of a registry pharmacy
+P0409,OVERTURE,0.5,63.0,False,81.0,81.0,probable pin offset of a registry pharmacy
+P0431,OVERTURE,0.985,175.0,False,175.0,271.0,cannot verify (desk research only)
+P0450,OVERTURE,0.77,134.0,False,133.0,202.0,cannot verify (desk research only)
+P0451,OVERTURE,0.5,92.0,False,79.0,334.0,probable pin offset of a registry pharmacy
+P0466,OVERTURE,0.508,126.0,False,125.0,125.0,cannot verify (desk research only)
+P0527,OVERTURE,0.973,69.0,False,70.0,310.0,probable pin offset of a registry pharmacy

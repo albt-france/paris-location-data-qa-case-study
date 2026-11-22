@@ -1,0 +1,5 @@
+source,geocoded,median_m,p90_m,over_150m,bis_ter_addresses,bis_ter_over_150m
+EDU,95,0.0,0.1,0.0,4.0,0.0
+FINESS,204,0.0,0.1,0.0,5.0,0.0
+OSM,41,6.5,40.0,0.0,1.0,0.0
+OVERTURE,467,2.9,19.8,9.0,6.0,0.0

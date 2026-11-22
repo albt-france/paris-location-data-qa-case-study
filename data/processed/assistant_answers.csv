@@ -1,0 +1,601 @@
+answer_id,query_type,theme,asked_on,query_lat,query_lon,place_ref,place_ref_2,shown_address,shown_postcode,shown_lat,shown_lon,shown_status,shown_category,shown_hours,guidelines_version
+A0001,opening_status,pharmacy,2026-11-02,48.850718,2.393233,P0074,,305 Rue du Faubourg Saint-Antoine,75011,48.849025,2.392388,open now,pharmacy,yes,v1
+A0002,address_lookup,school,2026-11-02,48.864368,2.387214,P0599,,100 Avenue de la République,75011,48.863577,2.382773,,school,,v1
+A0003,category_search,pharmacy,2026-11-02,48.859126,2.383939,P0273,,131 Rue de la Roquette,75011,48.858556,2.383243,open,pharmacy,,v1
+A0004,address_lookup,pharmacy,2026-11-02,48.858519,2.389856,P0117,,52 Rue de la Folie-Regnault,75011,48.859689,2.386765,,pharmacy,,v1
+A0005,find_nearest,pharmacy,2026-11-02,48.856411,2.384153,P0083,,70 Rue Léon Frot,75011,48.85699,2.385373,open,pharmacy,,v1
+A0006,opening_status,pharmacy,2026-11-02,48.854174,2.386642,P0111,,180 Boulevard Voltaire,75011,48.854881,2.384643,open now,pharmacy,yes,v1
+A0007,find_nearest,pharmacy,2026-11-02,48.857714,2.379778,P0082,,1 Place Léon Blum,75011,48.857618,2.379495,open,pharmacy,,v1
+A0008,find_nearest,school,2026-11-02,48.86311,2.379097,P0575,,11 Passage Saint-Ambroise,75011,48.863665,2.377018,open,school,,v1
+A0009,opening_status,pharmacy,2026-11-02,48.862651,2.375381,P0099,,53 Avenue de la République,75011,48.864855,2.377562,open now,pharmacy,yes,v1
+A0010,find_nearest,pharmacy,2026-11-02,48.855649,2.387338,P0067,,136 Rue de Charonne,75011,48.855224,2.388268,open,pharmacy,,v1
+A0011,find_nearest,pharmacy,2026-11-02,48.856268,2.385292,P0083,,70 Rue Léon Frot,75011,48.85697,2.385324,open,pharmacy,,v1
+A0012,find_nearest,pharmacy,2026-11-02,48.862463,2.380514,P0103,,65 Rue Saint-Maur,75011,48.862842,2.379356,open,pharmacy,,v1
+A0013,find_nearest,pharmacy,2026-11-02,48.86683,2.367051,P0386,,34 Boulevard du Temple,75011,48.865255,2.365788,open,pharmacy,,v1
+A0014,address_lookup,school,2026-11-02,48.865225,2.37809,P0656,,2 Rue Dranem,75011,48.86544,2.379999,,school,,v1
+A0015,address_lookup,pharmacy,2026-11-02,48.850901,2.400286,P0085,,13 Place de la Nation,75011,48.849023,2.397358,,pharmacy,,v1
+A0016,find_nearest,school,2026-11-02,48.864819,2.386409,P0599,,100 Avenue de la République,75011,48.863585,2.382759,open,school,,v1
+A0017,address_lookup,pharmacy,2026-11-02,48.857675,2.377882,P0100,,51B Rue de la Roquette,75011,48.857291,2.37489,,pharmacy,,v1
+A0018,find_nearest,pharmacy,2026-11-02,48.853373,2.383989,P0095,,24 Rue Paul Bert,75011,48.852548,2.38498,open,pharmacy,,v1
+A0019,find_nearest,pharmacy,2026-11-02,48.868693,2.371936,NONE,,74 Rue Jean-Pierre Timbaud,75011,48.867176,2.375792,open,pharmacy,,v1
+A0020,opening_status,pharmacy,2026-11-02,48.8617,2.388485,P0068,,119 Rue du Chemin Vert,75011,48.861787,2.383027,open now,pharmacy,yes,v1
+A0021,category_search,pharmacy,2026-11-02,48.852141,2.374541,P0080,,116 Avenue Ledru-Rollin,75011,48.853004,2.377304,open,pharmacy,,v1
+A0022,find_nearest,pharmacy,2026-11-02,48.860297,2.380637,P0090,,26 Rue Camille Desmoulins,75011,48.859296,2.382564,open,pharmacy,,v1
+A0023,opening_status,pharmacy,2026-11-02,48.85494,2.387381,P0083,,70 Rue Léon Frot,75011,48.856989,2.385346,open now,pharmacy,no,v1
+A0024,opening_status,pharmacy,2026-11-02,48.863374,2.376612,P0115,,84 Boulevard Richard Lenoir,75011,48.861571,2.372993,open now,pharmacy,no,v1
+A0025,opening_status,pharmacy,2026-11-02,48.870073,2.378367,P0063,,43 Boulevard de Belleville,75011,48.869222,2.380065,open now,pharmacy,yes,v1
+A0026,opening_status,pharmacy,2026-11-02,48.865782,2.366372,P0086,,24 Rue Oberkampf,75011,48.863492,2.369696,open now,pharmacy,yes,v1
+A0027,find_nearest,pharmacy,2026-11-02,48.862722,2.376034,P0076,,24 Rue de la Folie-Méricourt,75011,48.862667,2.373477,open,pharmacy,,v1
+A0028,opening_status,pharmacy,2026-11-02,48.864813,2.366473,P0289,,106 Boulevard Richard Lenoir,75011,48.863747,2.371686,open now,pharmacy,yes,v1
+A0029,address_lookup,school,2026-11-02,48.859191,2.37635,P0663,,29 Rue Popincourt,75011,48.858402,2.376491,,school,,v1
+A0030,find_nearest,pharmacy,2026-11-03,48.855869,2.374819,P0287,,10 Rue Bréguet,75011,48.856753,2.371981,open,pharmacy,,v1
+A0031,opening_status,pharmacy,2026-11-03,48.865604,2.373675,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867243,2.375536,open now,pharmacy,yes,v1
+A0032,category_search,pharmacy,2026-11-03,48.851153,2.387394,NONE,,30 Rue Chanzy,75011,48.852713,2.38558,open,pharmacy,,v1
+A0033,address_lookup,school,2026-11-03,48.871015,2.373479,P0571,,154 Rue Saint-Maur,75011,48.869239,2.374251,,school,,v1
+A0034,address_lookup,school,2026-11-03,48.85717,2.39061,P0623,,44 Rue Émile Lepeu,75011,48.856713,2.388183,,school,,v1
+A0035,address_lookup,school,2026-11-03,48.859446,2.382194,P0596,,22 Rue Saint-Maur,75011,48.860307,2.382079,,school,,v1
+A0036,category_search,pharmacy,2026-11-03,48.857136,2.386929,P0207,,153 Boulevard Voltaire,75011,48.85529,2.384561,open,pharmacy,,v1
+A0037,address_lookup,pharmacy,2026-11-03,48.858777,2.371788,P0100,,51B Rue de la Roquette,75011,48.856013,2.37177,,pharmacy,,v1
+A0038,find_nearest,pharmacy,2026-11-03,48.864895,2.385271,P0089,,152 Rue Oberkampf,75011,48.866599,2.381622,open,pharmacy,,v1
+A0039,opening_status,pharmacy,2026-11-03,48.854735,2.371878,P0380,,51 Rue Sedaine,75011,48.857381,2.375496,open now,pharmacy,yes,v1
+A0040,category_search,pharmacy,2026-11-03,48.867336,2.38006,P0359,P0227,152 Rue Oberkampf,75011,48.866588,2.381599,open,pharmacy,,v1
+A0041,find_nearest,school,2026-11-03,48.867424,2.371537,P0730,,13 Rue de la Fontaine au Roi,75011,48.868596,2.369617,open,school,,v1
+A0042,find_nearest,pharmacy,2026-11-03,48.864576,2.386708,P0180,,46 Boulevard de Ménilmontant,75011,48.86327,2.387414,open,pharmacy,,v1
+A0043,opening_status,pharmacy,2026-11-03,48.854907,2.387961,P0066,,127 Rue de Charonne,75011,48.855009,2.386362,open now,pharmacy,yes,v1
+A0044,category_search,pharmacy,2026-11-03,48.864919,2.380875,P0099,,53 Avenue de la République,75011,48.864845,2.377519,open,pharmacy,,v1
+A0045,opening_status,pharmacy,2026-11-03,48.863861,2.372624,P0445,,33 Avenue de la République,75011,48.865705,2.373115,open now,pharmacy,yes,v1
+A0046,find_nearest,school,2026-11-03,48.861337,2.385749,P0577,,29 Rue Merlin,75011,48.861364,2.38475,open,school,,v1
+A0047,category_search,pharmacy,2026-11-03,48.868154,2.371801,P0041,,91 Rue du Faubourg du Temple,75011,48.87054,2.372662,open,pharmacy,,v1
+A0048,address_lookup,school,2026-11-03,48.855897,2.379465,P0581,,11B Avenue Parmentier,75011,48.860985,2.380683,,school,,v1
+A0049,opening_status,pharmacy,2026-11-03,48.867011,2.375268,P0106,,7B Rue des Trois Bornes,75011,48.866365,2.371578,open now,pharmacy,no,v1
+A0050,find_nearest,school,2026-11-03,48.859321,2.375703,P0658,,41 Rue Bréguet,75011,48.858496,2.376142,open,school,,v1
+A0051,address_lookup,school,2026-11-03,48.851191,2.396354,P0590,,4 Avenue de Bouvines,75011,48.849832,2.396493,,school,,v1
+A0052,address_lookup,pharmacy,2026-11-03,48.85085,2.393609,P0112,,199 Boulevard Voltaire,75011,48.852917,2.388819,,pharmacy,,v1
+A0053,opening_status,pharmacy,2026-11-03,48.85458,2.381789,P0083,,70 Rue Léon Frot,75011,48.856988,2.38535,open now,pharmacy,yes,v1
+A0054,find_nearest,pharmacy,2026-11-03,48.866032,2.376581,P0104,,102 Rue Saint-Maur,75011,48.866045,2.377167,open,pharmacy,,v1
+A0055,find_nearest,pharmacy,2026-11-03,48.865271,2.372646,P0289,,106 Boulevard Richard Lenoir,75011,48.863743,2.371691,open,pharmacy,,v1
+A0056,address_lookup,school,2026-11-03,48.862903,2.367994,P0597,,24 Rue Saint-Sébastien,75011,48.861112,2.369435,,school,,v1
+A0057,category_search,pharmacy,2026-11-03,48.860568,2.380073,P0546,P0213,119 Rue du Chemin Vert,75011,48.861772,2.382935,open,pharmacy,,v1
+A0058,find_nearest,pharmacy,2026-11-03,48.860761,2.377915,P0091,,38 Avenue Parmentier,75011,48.861389,2.377827,open,pharmacy,,v1
+A0059,find_nearest,pharmacy,2026-11-03,48.854413,2.388619,P0067,,136 Rue de Charonne,75011,48.855206,2.388152,open,pharmacy,,v1
+A0060,address_lookup,pharmacy,2026-11-03,48.850452,2.381697,P0080,,116 Avenue Ledru-Rollin,75011,48.853023,2.377371,,pharmacy,,v1
+A0061,find_nearest,pharmacy,2026-11-03,48.860046,2.381898,P0090,,26 Rue Camille Desmoulins,75011,48.85928,2.382564,open,pharmacy,,v1
+A0062,category_search,pharmacy,2026-11-04,48.864504,2.378734,P0104,,102 Rue Saint-Maur,75011,48.866047,2.377167,open,pharmacy,,v1
+A0063,opening_status,pharmacy,2026-11-04,48.85604,2.369758,P0114,,26 Boulevard Richard Lenoir,75011,48.856564,2.371135,open now,pharmacy,no,v1
+A0064,address_lookup,pharmacy,2026-11-04,48.857122,2.375927,P0101,,81 Rue de la Roquette,75011,48.85688,2.377987,,pharmacy,,v1
+A0065,opening_status,pharmacy,2026-11-04,48.854066,2.37179,P0116,,6 Boulevard Richard Lenoir,75011,48.85424,2.370049,open now,pharmacy,no,v1
+A0066,find_nearest,pharmacy,2026-11-04,48.869516,2.372156,P0403,,57 Rue Jean-Pierre Timbaud,75011,48.86701,2.374571,open,pharmacy,,v1
+A0067,address_lookup,school,2026-11-04,48.859668,2.382973,P0607,,11B Avenue Parmentier,75011,48.859792,2.378784,,school,,v1
+A0068,opening_status,pharmacy,2026-11-04,48.858407,2.376499,P0115,,84 Boulevard Richard Lenoir,75011,48.861594,2.372995,open now,pharmacy,yes,v1
+A0069,category_search,pharmacy,2026-11-04,48.855522,2.38571,P0084,,14 Rue de Mont-Louis,75011,48.858312,2.389232,open,pharmacy,,v1
+A0070,opening_status,pharmacy,2026-11-04,48.856644,2.387653,P0102,,150 Rue de la Roquette,75011,48.858225,2.382779,open now,pharmacy,yes,v1
+A0071,category_search,pharmacy,2026-11-04,48.869957,2.379887,P0206,,32 Rue de Vaucouleurs,75011,48.869872,2.377078,open,pharmacy,,v1
+A0072,find_nearest,pharmacy,2026-11-04,48.850917,2.388121,P0112,,199 Boulevard Voltaire,75011,48.852901,2.388707,open,pharmacy,,v1
+A0073,find_nearest,pharmacy,2026-11-04,48.854525,2.371972,P0116,,6 Boulevard Richard Lenoir,75011,48.854239,2.370051,open,pharmacy,,v1
+A0074,address_lookup,school,2026-11-04,48.87168,2.380539,P0589,,77 Boulevard de Belleville,75011,48.871263,2.377424,,school,,v1
+A0075,find_nearest,pharmacy,2026-11-04,48.867926,2.367058,P0409,,18 Rue du Faubourg du Temple,75011,48.868332,2.366151,open,pharmacy,,v1
+A0076,opening_status,pharmacy,2026-11-04,48.853214,2.37555,P0080,,116 Avenue Ledru-Rollin,75011,48.853058,2.377265,open now,pharmacy,no,v1
+A0077,find_nearest,pharmacy,2026-11-04,48.856816,2.394708,P0431,,172 Rue de Charonne,75011,48.856066,2.393007,open,pharmacy,,v1
+A0078,find_nearest,pharmacy,2026-11-04,48.853421,2.373285,P0133,,71 Avenue Ledru-Rollin,75011,48.849613,2.373959,open,pharmacy,,v1
+A0079,opening_status,pharmacy,2026-11-04,48.866886,2.371536,P0445,,33 Avenue de la République,75011,48.865675,2.373154,open now,pharmacy,yes,v1
+A0080,category_search,pharmacy,2026-11-04,48.867894,2.376253,P0106,,7B Rue des Trois Bornes,75011,48.866365,2.371546,open,pharmacy,,v1
+A0081,find_nearest,pharmacy,2026-11-04,48.849664,2.386828,NONE,,242 Boulevard Voltaire,75011,48.851356,2.39056,open,pharmacy,,v1
+A0082,find_nearest,pharmacy,2026-11-04,48.868212,2.375412,P0078,,98 Rue Jean-Pierre Timbaud,75011,48.867856,2.378178,open,pharmacy,,v1
+A0083,category_search,pharmacy,2026-11-04,48.870576,2.367899,P0070,,28 Rue du Faubourg du Temple,75011,48.868539,2.366877,open,pharmacy,,v1
+A0084,category_search,pharmacy,2026-11-04,48.865012,2.364918,P0086,,24 Rue Oberkampf,75011,48.863508,2.369664,open,pharmacy,,v1
+A0085,address_lookup,school,2026-11-04,48.860923,2.382157,P0619,,6 Rue des Bluets,75011,48.8643,2.381848,,school,,v1
+A0086,find_nearest,pharmacy,2026-11-04,48.860086,2.383896,P0090,,26 Rue Camille Desmoulins,75011,48.859311,2.382565,open,pharmacy,,v1
+A0087,find_nearest,school,2026-11-04,48.85204,2.38131,P0601,,31 Rue Saint-Bernard,75011,48.852744,2.380898,open,school,,v1
+A0088,find_nearest,pharmacy,2026-11-04,48.85503,2.383895,P0111,,180 Boulevard Voltaire,75011,48.854896,2.38467,open,pharmacy,,v1
+A0089,find_nearest,pharmacy,2026-11-04,48.852456,2.37985,NONE,,62 Rue de Charonne,75011,48.853277,2.378849,open,pharmacy,,v1
+A0090,opening_status,pharmacy,2026-11-04,48.864053,2.375432,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.86727,2.375621,open now,pharmacy,yes,v1
+A0091,opening_status,pharmacy,2026-11-04,48.865202,2.370775,P0107,,29 Boulevard Voltaire,75011,48.86481,2.368678,open now,pharmacy,yes,v1
+A0092,find_nearest,school,2026-11-04,48.866838,2.375306,P0714,,95 Avenue Parmentier,75011,48.866253,2.373542,open,school,,v1
+A0093,address_lookup,pharmacy,2026-11-05,48.852841,2.378348,P0065,,63 Rue de Charonne,75011,48.853531,2.379813,,pharmacy,,v1
+A0094,find_nearest,pharmacy,2026-11-05,48.869534,2.37076,P0094,,146 Avenue Parmentier,75011,48.869703,2.37152,open,pharmacy,,v1
+A0095,find_nearest,school,2026-11-05,48.855448,2.384333,P0633,,31 Rue Godefroy Cavaignac,75011,48.855725,2.38068,open,school,,v1
+A0096,address_lookup,school,2026-11-05,48.861353,2.384289,P0801,,10B Rue Duranti,75011,48.859757,2.378945,,school,,v1
+A0097,category_search,pharmacy,2026-11-05,48.861719,2.369743,P0398,P0262,84 Boulevard Richard Lenoir,75011,48.861613,2.372986,open,pharmacy,,v1
+A0098,category_search,pharmacy,2026-11-05,48.866079,2.374525,P0106,,7B Rue des Trois Bornes,75011,48.866297,2.371485,open,pharmacy,,v1
+A0099,opening_status,pharmacy,2026-11-05,48.872402,2.373273,P0094,,146 Avenue Parmentier,75011,48.86967,2.371443,open now,pharmacy,yes,v1
+A0100,category_search,pharmacy,2026-11-05,48.854376,2.374934,P0081,,164 Avenue Ledru-Rollin,75011,48.856615,2.379395,open,pharmacy,,v1
+A0101,find_nearest,school,2026-11-05,48.864609,2.376308,P0688,,25 Rue Saint-Ambroise,75011,48.862447,2.3777,open,school,,v1
+A0102,address_lookup,school,2026-11-05,48.857923,2.37428,P0658,,41 Rue Bréguet,75011,48.858499,2.37615,,school,,v1
+A0103,opening_status,pharmacy,2026-11-05,48.858561,2.382378,P0082,,1 Place Léon Blum,75011,48.857612,2.379499,open now,pharmacy,yes,v1
+A0104,address_lookup,school,2026-11-05,48.854507,2.381876,P0601,,31 Rue Saint-Bernard,75011,48.852684,2.380948,,school,,v1
+A0105,address_lookup,school,2026-11-05,48.860734,2.370107,P0591,,13 Rue Froment,75011,48.857425,2.372541,,school,,v1
+A0106,opening_status,pharmacy,2026-11-05,48.868881,2.370309,P0094,,146 Avenue Parmentier,75011,48.86969,2.371458,open now,pharmacy,yes,v1
+A0107,category_search,pharmacy,2026-11-05,48.860275,2.365847,P0105,,4 Boulevard du Temple,75011,48.863673,2.36663,open,pharmacy,,v1
+A0108,category_search,pharmacy,2026-11-05,48.860855,2.38575,P0546,P0213,119 Rue du Chemin Vert,75011,48.861826,2.382984,open,pharmacy,,v1
+A0109,category_search,pharmacy,2026-11-05,48.853072,2.374256,NONE,,75 Rue du Faubourg Saint-Antoine,75011,48.85181,2.374473,open,pharmacy,,v1
+A0110,opening_status,pharmacy,2026-11-05,48.863712,2.385697,P0089,,152 Rue Oberkampf,75011,48.866574,2.381613,open now,pharmacy,yes,v1
+A0111,address_lookup,school,2026-11-05,48.86038,2.381343,P0935,,11B Avenue Parmentier,75011,48.8617,2.38187,,school,,v1
+A0112,find_nearest,school,2026-11-05,48.862778,2.38472,P0577,,29 Rue Merlin,75011,48.861306,2.384814,open,school,,v1
+A0113,category_search,pharmacy,2026-11-05,48.8622,2.377917,P0367,P0255,48 Avenue de la République,75011,48.865196,2.374236,open,pharmacy,,v1
+A0114,find_nearest,pharmacy,2026-11-05,48.869469,2.358517,P0048,,2 Place Jacques Bonsergent,75011,48.870669,2.36138,open,pharmacy,,v1
+A0115,find_nearest,pharmacy,2026-11-05,48.863118,2.373103,P0076,,24 Rue de la Folie-Méricourt,75011,48.862661,2.373542,open,pharmacy,,v1
+A0116,opening_status,pharmacy,2026-11-06,48.85158,2.387952,P0112,,199 Boulevard Voltaire,75011,48.852872,2.388825,open now,pharmacy,yes,v1
+A0117,opening_status,pharmacy,2026-11-06,48.861742,2.374192,P0099,,53 Avenue de la République,75011,48.86486,2.377493,open now,pharmacy,no,v1
+A0118,address_lookup,pharmacy,2026-11-06,48.866649,2.376096,P0099,,53 Avenue de la République,75011,48.864856,2.37751,,pharmacy,,v1
+A0119,category_search,pharmacy,2026-11-06,48.858857,2.371211,P0115,,84 Boulevard Richard Lenoir,75011,48.861609,2.372949,open,pharmacy,,v1
+A0120,opening_status,pharmacy,2026-11-06,48.8455,2.392513,P0074,,305 Rue du Faubourg Saint-Antoine,75011,48.84905,2.39239,open now,pharmacy,no,v1
+A0121,find_nearest,pharmacy,2026-11-06,48.860298,2.3842,P0451,,22 Rue Gerbier,75011,48.858982,2.386107,open,pharmacy,,v1
+A0122,address_lookup,school,2026-11-06,48.863826,2.380493,P0595,,98 Avenue de la République,75011,48.863627,2.382419,,school,,v1
+A0123,category_search,pharmacy,2026-11-06,48.857736,2.379931,P0207,,153 Boulevard Voltaire,75011,48.855348,2.384616,open,pharmacy,,v1
+A0124,category_search,pharmacy,2026-11-06,48.851182,2.376447,NONE,,20 Rue de Lappe,75011,48.853737,2.372516,open,pharmacy,,v1
+A0125,address_lookup,school,2026-11-06,48.867897,2.37325,P0604,,4B Rue de la Présentation,75011,48.870986,2.377012,,school,,v1
+A0126,address_lookup,school,2026-11-06,48.854839,2.378111,P0573,,16 Rue Basfroi,75011,48.854513,2.37975,,school,,v1
+A0127,opening_status,pharmacy,2026-11-06,48.870185,2.382438,P0089,,152 Rue Oberkampf,75011,48.866596,2.381634,open now,pharmacy,yes,v1
+A0128,category_search,pharmacy,2026-11-06,48.858559,2.368234,P0014,,37 Rue de Turenne,75011,48.856973,2.364326,open,pharmacy,,v1
+A0129,find_nearest,pharmacy,2026-11-06,48.861651,2.368143,NONE,,102C Rue Amelot,75011,48.862463,2.367814,open,pharmacy,,v1
+A0130,address_lookup,school,2026-11-06,48.867205,2.379207,P0574,,81 Rue Jean-Pierre Timbaud,75011,48.867962,2.377523,,school,,v1
+A0131,category_search,pharmacy,2026-11-06,48.858684,2.383797,P0207,,153 Boulevard Voltaire,75011,48.855278,2.384669,open,pharmacy,,v1
+A0132,address_lookup,school,2026-11-06,48.864799,2.376455,P0602,,39 Rue des Trois Bornes,75011,48.867373,2.374563,,school,,v1
+A0133,opening_status,pharmacy,2026-11-06,48.861301,2.379527,P0110,,113 Boulevard Voltaire,75011,48.857412,2.381094,open now,pharmacy,no,v1
+A0134,find_nearest,school,2026-11-06,48.858878,2.382758,P0610,,144 Rue de la Roquette,75011,48.858122,2.382324,open,school,,v1
+A0135,category_search,pharmacy,2026-11-06,48.871763,2.37509,P0097,,13 Rue de la Présentation,75011,48.871331,2.376338,open,pharmacy,,v1
+A0136,find_nearest,pharmacy,2026-11-06,48.862244,2.370813,P0445,,33 Avenue de la République,75011,48.865665,2.373162,open,pharmacy,,v1
+A0137,find_nearest,pharmacy,2026-11-06,48.867275,2.373259,P0092,,97 Avenue Parmentier,75011,48.866398,2.37355,open,pharmacy,,v1
+A0138,find_nearest,school,2026-11-06,48.861405,2.379122,P0581,,11B Avenue Parmentier,75011,48.859744,2.378732,open,school,,v1
+A0139,find_nearest,pharmacy,2026-11-06,48.870658,2.380292,P0063,,43 Boulevard de Belleville,75011,48.869201,2.379984,open,pharmacy,,v1
+A0140,opening_status,pharmacy,2026-11-06,48.861962,2.388238,P0084,,14 Rue de Mont-Louis,75011,48.858285,2.389219,open now,pharmacy,yes,v1
+A0141,category_search,pharmacy,2026-11-06,48.850324,2.381257,P0291,,22 Rue Trousseau,75011,48.851591,2.378942,open,pharmacy,,v1
+A0142,category_search,pharmacy,2026-11-06,48.859871,2.385308,P0117,,52 Rue de la Folie-Regnault,75011,48.859707,2.386783,open,pharmacy,,v1
+A0143,find_nearest,pharmacy,2026-11-06,48.870235,2.379012,P0063,,43 Boulevard de Belleville,75011,48.869201,2.380006,open,pharmacy,,v1
+A0144,address_lookup,school,2026-11-06,48.863547,2.377969,P0935,,11B Avenue Parmentier,75011,48.857817,2.378507,,school,,v1
+A0145,category_search,pharmacy,2026-11-07,48.854678,2.366508,P0026,,21 Rue Saint-Antoine,75011,48.853557,2.36579,open,pharmacy,,v1
+A0146,find_nearest,school,2026-11-07,48.858075,2.383623,P0610,,144 Rue de la Roquette,75011,48.858085,2.382352,open,school,,v1
+A0147,address_lookup,school,2026-11-07,48.857521,2.383607,P0935,,11B Avenue Parmentier,75011,48.861649,2.3755,,school,,v1
+A0148,opening_status,pharmacy,2026-11-07,48.859038,2.384241,P0083,,70 Rue Léon Frot,75011,48.85699,2.385354,open now,pharmacy,yes,v1
+A0149,address_lookup,school,2026-11-07,48.8526,2.374631,P0598,,4 Rue Keller,75011,48.853632,2.376897,,school,,v1
+A0150,opening_status,pharmacy,2026-11-07,48.857351,2.377279,P0082,,1 Place Léon Blum,75011,48.857577,2.379513,open now,pharmacy,yes,v1
+A0151,address_lookup,school,2026-11-07,48.848993,2.390832,P0631,,231 Boulevard Voltaire,75011,48.851356,2.391283,,school,,v1
+A0152,opening_status,pharmacy,2026-11-07,48.86588,2.377635,P0206,,32 Rue de Vaucouleurs,75011,48.869865,2.377124,open now,pharmacy,yes,v1
+A0153,opening_status,pharmacy,2026-11-07,48.867643,2.37961,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867292,2.375575,open now,pharmacy,yes,v1
+A0154,opening_status,pharmacy,2026-11-07,48.856062,2.367975,P0116,,6 Boulevard Richard Lenoir,75011,48.85425,2.370066,open now,pharmacy,no,v1
+A0155,address_lookup,school,2026-11-07,48.861315,2.384074,P0619,,6 Rue des Bluets,75011,48.864274,2.381821,,school,,v1
+A0156,address_lookup,pharmacy,2026-11-07,48.866736,2.379524,P0062,,9 Boulevard de Belleville,75011,48.867684,2.381903,,pharmacy,,v1
+A0157,opening_status,pharmacy,2026-11-07,48.857535,2.369024,P0527,,10 Rue Bréguet,75011,48.856688,2.372077,open now,pharmacy,yes,v1
+A0158,opening_status,pharmacy,2026-11-07,48.855689,2.391559,P0067,,136 Rue de Charonne,75011,48.855204,2.388183,open now,pharmacy,no,v1
+A0159,opening_status,pharmacy,2026-11-07,48.86399,2.365065,P0108,,34 Boulevard Voltaire,75011,48.86404,2.369334,open now,pharmacy,no,v1
+A0160,address_lookup,pharmacy,2026-11-07,48.863985,2.387865,P0068,,119 Rue du Chemin Vert,75011,48.861794,2.382993,,pharmacy,,v1
+A0161,address_lookup,school,2026-11-07,48.854917,2.37594,P0633,,31 Rue Godefroy Cavaignac,75011,48.855782,2.380675,,school,,v1
+A0162,category_search,pharmacy,2026-11-07,48.857924,2.373912,P0479,P0220,26 Boulevard Richard Lenoir,75011,48.856531,2.371118,open,pharmacy,,v1
+A0163,address_lookup,school,2026-11-07,48.86308,2.384021,P0596,,22 Rue Saint-Maur,75011,48.860302,2.382037,,school,,v1
+A0164,category_search,pharmacy,2026-11-07,48.859477,2.378324,P0102,,150 Rue de la Roquette,75011,48.858208,2.382755,open,pharmacy,,v1
+A0165,opening_status,pharmacy,2026-11-07,48.85084,2.395414,P0113,,264 Boulevard Voltaire,75011,48.849986,2.392873,open now,pharmacy,yes,v1
+A0166,category_search,pharmacy,2026-11-07,48.863521,2.367383,P0086,,24 Rue Oberkampf,75011,48.863484,2.369717,open,pharmacy,,v1
+A0167,find_nearest,school,2026-11-07,48.850333,2.391897,P0631,,231 Boulevard Voltaire,75011,48.851337,2.391292,open,school,,v1
+A0168,find_nearest,school,2026-11-07,48.860992,2.374253,P0605,,2 Passage Beslay,75011,48.862984,2.373436,open,school,,v1
+A0169,find_nearest,pharmacy,2026-11-07,48.866266,2.368895,P0034,,130 Boulevard Richard Lenoir,75011,48.865648,2.370146,open,pharmacy,,v1
+A0170,find_nearest,pharmacy,2026-11-07,48.854676,2.382464,P0069,,43 Rue Faidherbe,75011,48.853703,2.382322,open,pharmacy,,v1
+A0171,address_lookup,school,2026-11-07,48.868123,2.379132,P0574,,81 Rue Jean-Pierre Timbaud,75011,48.86797,2.377471,,school,,v1
+A0172,category_search,pharmacy,2026-11-07,48.865624,2.375871,P0103,,65 Rue Saint-Maur,75011,48.862882,2.379379,open,pharmacy,,v1
+A0173,find_nearest,school,2026-11-07,48.867743,2.380339,P0627,,5 Impasse de la Baleine,75011,48.867236,2.377735,open,school,,v1
+A0174,address_lookup,school,2026-11-07,48.861281,2.386583,P0632,,14 Rue Merlin,75011,48.860011,2.385864,,school,,v1
+A0175,find_nearest,pharmacy,2026-11-07,48.858557,2.377028,P0096,,41 Rue Popincourt,75011,48.859106,2.376071,open,pharmacy,,v1
+A0176,category_search,pharmacy,2026-11-07,48.851401,2.401772,P0085,,13 Place de la Nation,75011,48.849005,2.397441,open,pharmacy,,v1
+A0177,find_nearest,pharmacy,2026-11-08,48.853793,2.384446,P0111,,180 Boulevard Voltaire,75011,48.854906,2.384674,open,pharmacy,,v1
+A0178,find_nearest,school,2026-11-08,48.867898,2.375368,P0602,,39 Rue des Trois Bornes,75011,48.867355,2.374538,open,school,,v1
+A0179,opening_status,pharmacy,2026-11-08,48.863035,2.373007,P0115,,84 Boulevard Richard Lenoir,75011,48.861619,2.372922,open now,pharmacy,yes,v1
+A0180,opening_status,pharmacy,2026-11-08,48.853806,2.387971,P0067,,136 Rue de Charonne,75011,48.855258,2.388244,open now,pharmacy,no,v1
+A0181,address_lookup,pharmacy,2026-11-08,48.848718,2.381532,P0072,,137 Rue du Faubourg Saint-Antoine,75011,48.850928,2.378022,,pharmacy,,v1
+A0182,find_nearest,school,2026-11-08,48.867361,2.374636,P0602,,39 Rue des Trois Bornes,75011,48.86732,2.374546,open,school,,v1
+A0183,find_nearest,pharmacy,2026-11-08,48.853533,2.373943,P0064,,16 Rue de Charonne,75011,48.852741,2.37452,open,pharmacy,,v1
+A0184,category_search,pharmacy,2026-11-08,48.85283,2.367582,P0032,,1 Rue des Tournelles,75011,48.853855,2.367208,open,pharmacy,,v1
+A0185,category_search,pharmacy,2026-11-08,48.851571,2.379773,P0079,,97 Avenue Ledru-Rollin,75011,48.85213,2.376458,open,pharmacy,,v1
+A0186,find_nearest,school,2026-11-08,48.858502,2.376729,P0678,,40 Rue du Chemin Vert,75011,48.858761,2.374251,open,school,,v1
+A0187,find_nearest,pharmacy,2026-11-08,48.849648,2.374722,NONE,,21 Rue du Faubourg Saint-Antoine,75011,48.852805,2.371355,open,pharmacy,,v1
+A0188,category_search,pharmacy,2026-11-08,48.855759,2.385706,P0207,,153 Boulevard Voltaire,75011,48.855283,2.384667,open,pharmacy,,v1
+A0189,find_nearest,pharmacy,2026-11-08,48.851254,2.386232,P0095,,24 Rue Paul Bert,75011,48.852563,2.384912,open,pharmacy,,v1
+A0190,category_search,pharmacy,2026-11-08,48.857337,2.388368,P0273,,131 Rue de la Roquette,75011,48.858586,2.383232,open,pharmacy,,v1
+A0191,category_search,pharmacy,2026-11-08,48.862388,2.38067,P0090,,26 Rue Camille Desmoulins,75011,48.859347,2.382613,open,pharmacy,,v1
+A0192,address_lookup,pharmacy,2026-11-08,48.861424,2.370472,P0109,,69 Boulevard Voltaire,75011,48.861522,2.374202,,pharmacy,,v1
+A0193,category_search,pharmacy,2026-11-08,48.866716,2.374102,NONE,,17 Rue des Trois Bornes,75011,48.866625,2.372479,open,pharmacy,,v1
+A0194,opening_status,pharmacy,2026-11-08,48.85759,2.389237,P0117,,52 Rue de la Folie-Regnault,75011,48.859662,2.386764,open now,pharmacy,no,v1
+A0195,address_lookup,pharmacy,2026-11-08,48.866949,2.376455,P0206,,32 Rue de Vaucouleurs,75011,48.869889,2.377088,,pharmacy,,v1
+A0196,find_nearest,school,2026-11-08,48.86403,2.368326,P0572,,102 Rue Amelot,75011,48.862426,2.367451,open,school,,v1
+A0197,find_nearest,pharmacy,2026-11-08,48.85717,2.387398,P0083,,70 Rue Léon Frot,75011,48.857033,2.385392,open,pharmacy,,v1
+A0198,find_nearest,pharmacy,2026-11-08,48.848322,2.402179,P0085,,13 Place de la Nation,75011,48.848978,2.397418,open,pharmacy,,v1
+A0199,opening_status,pharmacy,2026-11-08,48.86557,2.379821,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867256,2.375629,open now,pharmacy,yes,v1
+A0200,category_search,pharmacy,2026-11-08,48.861638,2.383602,P0102,,150 Rue de la Roquette,75011,48.858185,2.382752,open,pharmacy,,v1
+A0201,find_nearest,pharmacy,2026-11-08,48.86749,2.367002,P0386,,34 Boulevard du Temple,75011,48.86523,2.365757,open,pharmacy,,v1
+A0202,category_search,pharmacy,2026-11-08,48.861235,2.381522,P0090,,26 Rue Camille Desmoulins,75011,48.859364,2.382581,open,pharmacy,,v1
+A0203,opening_status,pharmacy,2026-11-08,48.85841,2.373691,P0380,,51 Rue Sedaine,75011,48.857357,2.375466,open now,pharmacy,yes,v1
+A0204,opening_status,pharmacy,2026-11-08,48.857869,2.377382,P0110,,113 Boulevard Voltaire,75011,48.857424,2.381166,open now,pharmacy,yes,v1
+A0205,opening_status,pharmacy,2026-11-08,48.86239,2.372632,P0115,,84 Boulevard Richard Lenoir,75011,48.86161,2.372969,open now,pharmacy,yes,v1
+A0206,address_lookup,pharmacy,2026-11-09,48.853358,2.375551,P0100,,51B Rue de la Roquette,75011,48.855706,2.37055,,pharmacy,,v1
+A0207,opening_status,pharmacy,2026-11-09,48.862782,2.372676,P0091,,38 Avenue Parmentier,75011,48.861404,2.377891,open now,pharmacy,no,v1
+A0208,opening_status,pharmacy,2026-11-09,48.85878,2.379179,P0082,,1 Place Léon Blum,75011,48.857594,2.379478,open now,pharmacy,yes,v1
+A0209,category_search,pharmacy,2026-11-09,48.869628,2.371044,P0071,,44 Rue du Faubourg du Temple,75011,48.869299,2.369219,open,pharmacy,,v1
+A0210,category_search,pharmacy,2026-11-09,48.85144,2.381776,P0502,P0259,191 Rue du Faubourg Saint-Antoine,75011,48.85049,2.381874,open,pharmacy,,v1
+A0211,category_search,pharmacy,2026-11-09,48.863063,2.369559,P0076,,24 Rue de la Folie-Méricourt,75011,48.862662,2.373526,open,pharmacy,,v1
+A0212,address_lookup,pharmacy,2026-11-09,48.863469,2.365695,P0108,,34 Boulevard Voltaire,75011,48.864007,2.369268,,pharmacy,,v1
+A0213,opening_status,pharmacy,2026-11-09,48.864042,2.364833,P0105,,4 Boulevard du Temple,75011,48.863654,2.366706,open now,pharmacy,yes,v1
+A0214,find_nearest,school,2026-11-09,48.851767,2.390456,P0631,,231 Boulevard Voltaire,75011,48.851326,2.391334,open,school,,v1
+A0215,category_search,pharmacy,2026-11-09,48.858533,2.391401,P0117,,52 Rue de la Folie-Regnault,75011,48.85973,2.386798,open,pharmacy,,v1
+A0216,find_nearest,pharmacy,2026-11-09,48.855955,2.369779,P0014,,37 Rue de Turenne,75011,48.856996,2.3643,open,pharmacy,,v1
+A0217,find_nearest,pharmacy,2026-11-09,48.866999,2.377401,P0104,,102 Rue Saint-Maur,75011,48.866037,2.377159,open,pharmacy,,v1
+A0218,find_nearest,school,2026-11-09,48.86638,2.36895,P0593,,109 Avenue Parmentier,75011,48.867648,2.372647,open,school,,v1
+A0219,category_search,pharmacy,2026-11-09,48.856965,2.373472,NONE,,28 Rue du Chemin Vert,75011,48.858343,2.372686,open,pharmacy,,v1
+A0220,category_search,pharmacy,2026-11-09,48.85806,2.376341,P0091,,38 Avenue Parmentier,75011,48.861396,2.377901,open,pharmacy,,v1
+A0221,opening_status,pharmacy,2026-11-09,48.861592,2.374172,P0096,,41 Rue Popincourt,75011,48.859068,2.376019,open now,pharmacy,no,v1
+A0222,address_lookup,school,2026-11-09,48.859535,2.390327,P0623,,44 Rue Émile Lepeu,75011,48.85666,2.388199,,school,,v1
+A0223,find_nearest,pharmacy,2026-11-09,48.846112,2.39488,P0138,,2 Place de la Nation,75011,48.848448,2.394152,open,pharmacy,,v1
+A0224,opening_status,pharmacy,2026-11-09,48.861777,2.37619,P0109,,69 Boulevard Voltaire,75011,48.861455,2.374251,open now,pharmacy,yes,v1
+A0225,address_lookup,school,2026-11-09,48.874103,2.37799,P0604,,4B Rue de la Présentation,75011,48.871013,2.376992,,school,,v1
+A0226,address_lookup,school,2026-11-09,48.852314,2.37918,P0612,,39 Rue Saint-Bernard,75011,48.853214,2.38056,,school,,v1
+A0227,opening_status,pharmacy,2026-11-09,48.862176,2.387873,P0068,,119 Rue du Chemin Vert,75011,48.861754,2.383006,open now,pharmacy,no,v1
+A0228,find_nearest,pharmacy,2026-11-09,48.853811,2.379045,P0065,,63 Rue de Charonne,75011,48.853556,2.379815,open,pharmacy,,v1
+A0229,find_nearest,school,2026-11-09,48.855923,2.372176,P0624,,13 Boulevard Richard Lenoir,75011,48.85607,2.369995,open,school,,v1
+A0230,opening_status,pharmacy,2026-11-09,48.863316,2.370897,P0109,,69 Boulevard Voltaire,75011,48.861452,2.374213,open now,pharmacy,yes,v1
+A0231,address_lookup,pharmacy,2026-11-09,48.859276,2.36851,P0075,,2 Boulevard des Filles du Calvaire,75011,48.860895,2.367503,,pharmacy,,v1
+A0232,address_lookup,pharmacy,2026-11-09,48.864763,2.379361,P0098,,48 Avenue de la République,75011,48.865211,2.374227,,pharmacy,,v1
+A0233,category_search,pharmacy,2026-11-09,48.851467,2.37456,P0080,,116 Avenue Ledru-Rollin,75011,48.853007,2.377303,open,pharmacy,,v1
+A0234,opening_status,pharmacy,2026-11-09,48.870953,2.373434,P0094,,146 Avenue Parmentier,75011,48.869666,2.371506,open now,pharmacy,yes,v1
+A0235,opening_status,pharmacy,2026-11-09,48.868971,2.383152,P0077,,97 Rue Jean-Pierre Timbaud,75011,48.868672,2.379824,open now,pharmacy,yes,v1
+A0236,opening_status,pharmacy,2026-11-09,48.864287,2.372105,P0086,,24 Rue Oberkampf,75011,48.863533,2.369699,open now,pharmacy,yes,v1
+A0237,address_lookup,pharmacy,2026-11-09,48.851937,2.373863,P0064,,16 Rue de Charonne,75011,48.852735,2.374545,,pharmacy,,v1
+A0238,find_nearest,school,2026-11-09,48.86584,2.37067,P0781,,8 Rue de la Fontaine au Roi,75011,48.868437,2.369311,open,school,,v1
+A0239,find_nearest,pharmacy,2026-11-09,48.849509,2.39611,P0140,,71 Boulevard de Picpus,75011,48.84688,2.39933,open,pharmacy,,v1
+A0240,find_nearest,school,2026-11-09,48.870095,2.372795,P0730,,13 Rue de la Fontaine au Roi,75011,48.868607,2.369656,open,school,,v1
+A0241,category_search,pharmacy,2026-11-10,48.854347,2.375192,P0526,P0208,81 Rue de la Roquette,75011,48.856878,2.377958,open,pharmacy,,v1
+A0242,opening_status,pharmacy,2026-11-10,48.855415,2.38069,P0101,,81 Rue de la Roquette,75011,48.856872,2.378024,open now,pharmacy,yes,v1
+A0243,category_search,pharmacy,2026-11-10,48.864376,2.365853,P0303,P0263,29 Boulevard Voltaire,75011,48.864842,2.368646,open,pharmacy,,v1
+A0244,category_search,pharmacy,2026-11-10,48.869124,2.375718,P0077,,97 Rue Jean-Pierre Timbaud,75011,48.868651,2.379808,open,pharmacy,,v1
+A0245,find_nearest,pharmacy,2026-11-10,48.857414,2.390754,P0084,,14 Rue de Mont-Louis,75011,48.858293,2.389207,open,pharmacy,,v1
+A0246,opening_status,pharmacy,2026-11-10,48.856401,2.390976,P0084,,14 Rue de Mont-Louis,75011,48.858314,2.389234,open now,pharmacy,no,v1
+A0247,address_lookup,pharmacy,2026-11-10,48.867592,2.370608,P0106,,7B Rue des Trois Bornes,75011,48.869341,2.36921,,pharmacy,,v1
+A0248,find_nearest,school,2026-11-10,48.866226,2.37194,P0593,,109 Avenue Parmentier,75011,48.867615,2.37262,open,school,,v1
+A0249,opening_status,pharmacy,2026-11-10,48.861936,2.388592,P0117,,52 Rue de la Folie-Regnault,75011,48.859737,2.386752,open now,pharmacy,yes,v1
+A0250,opening_status,pharmacy,2026-11-10,48.867304,2.378598,P0063,,43 Boulevard de Belleville,75011,48.869174,2.379961,open now,pharmacy,no,v1
+A0251,category_search,pharmacy,2026-11-10,48.857292,2.379636,P0110,,113 Boulevard Voltaire,75011,48.857414,2.381082,open,pharmacy,,v1
+A0252,find_nearest,pharmacy,2026-11-10,48.870465,2.379362,P0063,,43 Boulevard de Belleville,75011,48.869193,2.379915,open,pharmacy,,v1
+A0253,opening_status,pharmacy,2026-11-10,48.856791,2.383288,P0102,,150 Rue de la Roquette,75011,48.858212,2.38282,open now,pharmacy,yes,v1
+A0254,find_nearest,pharmacy,2026-11-10,48.864887,2.367753,P0107,,29 Boulevard Voltaire,75011,48.86484,2.368625,open,pharmacy,,v1
+A0255,find_nearest,school,2026-11-10,48.855856,2.375169,P0662,,3 Cité de la Roquette,75011,48.854985,2.374096,open,school,,v1
+A0256,address_lookup,pharmacy,2026-11-10,48.861355,2.387981,P0117,,52 Rue de la Folie-Regnault,75011,48.859687,2.386759,,pharmacy,,v1
+A0257,find_nearest,pharmacy,2026-11-10,48.856358,2.389626,P0067,,136 Rue de Charonne,75011,48.855216,2.388202,open,pharmacy,,v1
+A0258,category_search,pharmacy,2026-11-10,48.86039,2.36874,P0076,,24 Rue de la Folie-Méricourt,75011,48.862616,2.373559,open,pharmacy,,v1
+A0259,opening_status,pharmacy,2026-11-10,48.858465,2.388116,P0083,,70 Rue Léon Frot,75011,48.856994,2.385341,open now,pharmacy,no,v1
+A0260,address_lookup,school,2026-11-10,48.864319,2.380646,P0656,,2 Rue Dranem,75011,48.865421,2.379999,,school,,v1
+A0261,find_nearest,pharmacy,2026-11-10,48.86665,2.374735,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867266,2.375603,open,pharmacy,,v1
+A0262,find_nearest,pharmacy,2026-11-10,48.851019,2.399859,P0085,,13 Place de la Nation,75011,48.849009,2.397376,open,pharmacy,,v1
+A0263,category_search,pharmacy,2026-11-10,48.85939,2.377248,P0563,P0222,38 Avenue Parmentier,75011,48.861336,2.377789,open,pharmacy,,v1
+A0264,address_lookup,school,2026-11-10,48.852916,2.37805,P0621,,4 Passage Bullourde,75011,48.854556,2.376705,,school,,v1
+A0265,find_nearest,school,2026-11-10,48.858384,2.374842,P0661,,42 Rue Bréguet,75011,48.85836,2.376089,open,school,,v1
+A0266,address_lookup,school,2026-11-10,48.864897,2.368756,P0597,,24 Rue Saint-Sébastien,75011,48.861089,2.369397,,school,,v1
+A0267,category_search,pharmacy,2026-11-10,48.850993,2.380502,P0291,,22 Rue Trousseau,75011,48.851593,2.378921,open,pharmacy,,v1
+A0268,find_nearest,pharmacy,2026-11-10,48.86401,2.373682,P0088,,56 Rue Oberkampf,75011,48.864721,2.373402,open,pharmacy,,v1
+A0269,category_search,pharmacy,2026-11-10,48.871178,2.380214,P0162,,86 Boulevard de Belleville,75011,48.870033,2.379666,open,pharmacy,,v1
+A0270,address_lookup,pharmacy,2026-11-10,48.868985,2.377824,P0206,,32 Rue de Vaucouleurs,75011,48.869876,2.377107,,pharmacy,,v1
+A0271,category_search,pharmacy,2026-11-10,48.847301,2.370736,P0135,,43 Rue de Lyon,75011,48.848906,2.370797,open,pharmacy,,v1
+A0272,opening_status,pharmacy,2026-11-10,48.857894,2.36653,P0061,,46 Boulevard Beaumarchais,75011,48.856836,2.368526,open now,pharmacy,yes,v1
+A0273,category_search,pharmacy,2026-11-10,48.865635,2.379124,P0104,,102 Rue Saint-Maur,75011,48.866088,2.377188,open,pharmacy,,v1
+A0274,opening_status,pharmacy,2026-11-11,48.868077,2.377933,P0077,,97 Rue Jean-Pierre Timbaud,75011,48.868664,2.379838,open now,pharmacy,yes,v1
+A0275,find_nearest,school,2026-11-11,48.862749,2.378786,P0575,,11 Passage Saint-Ambroise,75011,48.863651,2.376987,open,school,,v1
+A0276,find_nearest,pharmacy,2026-11-11,48.85104,2.390672,P0113,,264 Boulevard Voltaire,75011,48.849991,2.392852,open,pharmacy,,v1
+A0277,opening_status,pharmacy,2026-11-11,48.868953,2.378083,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867289,2.375567,open now,pharmacy,yes,v1
+A0278,address_lookup,school,2026-11-11,48.864463,2.382804,P0577,,29 Rue Merlin,75011,48.861353,2.384844,,school,,v1
+A0279,category_search,pharmacy,2026-11-11,48.861486,2.371826,P0105,,4 Boulevard du Temple,75011,48.863664,2.366643,open,pharmacy,,v1
+A0280,find_nearest,school,2026-11-11,48.849578,2.387996,P0653,,46 Rue de Montreuil,75011,48.850355,2.388366,open,school,,v1
+A0281,find_nearest,pharmacy,2026-11-11,48.867932,2.376373,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867267,2.375636,open,pharmacy,,v1
+A0282,opening_status,pharmacy,2026-11-11,48.86712,2.376797,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867269,2.37558,open now,pharmacy,yes,v1
+A0283,find_nearest,school,2026-11-11,48.860149,2.371797,P0622,,19 Rue Alphonse Baudin,75011,48.861257,2.370065,open,school,,v1
+A0284,address_lookup,school,2026-11-11,48.867269,2.374367,P0575,,11 Passage Saint-Ambroise,75011,48.863656,2.376998,,school,,v1
+A0285,address_lookup,school,2026-11-11,48.864851,2.377702,P0611,,54 Rue Servan,75011,48.863033,2.381788,,school,,v1
+A0286,opening_status,pharmacy,2026-11-11,48.868951,2.373528,P0078,,98 Rue Jean-Pierre Timbaud,75011,48.867773,2.378216,open now,pharmacy,no,v1
+A0287,address_lookup,school,2026-11-11,48.860263,2.372733,P0935,,11B Avenue Parmentier,75011,48.862748,2.381863,,school,,v1
+A0288,category_search,pharmacy,2026-11-11,48.870321,2.364405,P0071,,44 Rue du Faubourg du Temple,75011,48.869358,2.369165,open,pharmacy,,v1
+A0289,opening_status,pharmacy,2026-11-11,48.858034,2.384359,P0102,,150 Rue de la Roquette,75011,48.858223,2.382755,open now,pharmacy,no,v1
+A0290,find_nearest,pharmacy,2026-11-11,48.864015,2.367297,P0386,,34 Boulevard du Temple,75011,48.865263,2.36578,open,pharmacy,,v1
+A0291,opening_status,pharmacy,2026-11-11,48.860589,2.381046,P0090,,26 Rue Camille Desmoulins,75011,48.859335,2.382544,open now,pharmacy,no,v1
+A0292,find_nearest,pharmacy,2026-11-11,48.859903,2.384603,P0117,,52 Rue de la Folie-Regnault,75011,48.859675,2.386765,open,pharmacy,,v1
+A0293,find_nearest,school,2026-11-11,48.865764,2.373545,P0602,,39 Rue des Trois Bornes,75011,48.867359,2.374571,open,school,,v1
+A0294,address_lookup,school,2026-11-11,48.854901,2.385032,P0601,,31 Rue Saint-Bernard,75011,48.852745,2.380871,,school,,v1
+A0295,address_lookup,school,2026-11-11,48.859531,2.382829,P0607,,11B Avenue Parmentier,75011,48.860518,2.376264,,school,,v1
+A0296,opening_status,pharmacy,2026-11-11,48.863034,2.365816,P0086,,24 Rue Oberkampf,75011,48.863541,2.369743,open now,pharmacy,yes,v1
+A0297,find_nearest,pharmacy,2026-11-11,48.864733,2.373054,P0445,,33 Avenue de la République,75011,48.865686,2.37312,open,pharmacy,,v1
+A0298,opening_status,pharmacy,2026-11-11,48.86012,2.375367,P0096,,41 Rue Popincourt,75011,48.859086,2.376,open now,pharmacy,yes,v1
+A0299,find_nearest,pharmacy,2026-11-11,48.864732,2.361799,P0386,,34 Boulevard du Temple,75011,48.86526,2.365793,open,pharmacy,,v1
+A0300,category_search,pharmacy,2026-11-11,48.865892,2.368648,P0107,,29 Boulevard Voltaire,75011,48.864841,2.36868,open,pharmacy,,v1
+A0301,address_lookup,school,2026-11-11,48.858837,2.383311,P0610,,144 Rue de la Roquette,75011,48.858098,2.382284,,school,,v1
+A0302,opening_status,pharmacy,2026-11-11,48.866632,2.384072,P0062,,9 Boulevard de Belleville,75011,48.867763,2.381929,open now,pharmacy,yes,v1
+A0303,find_nearest,pharmacy,2026-11-11,48.866651,2.369071,P0034,,130 Boulevard Richard Lenoir,75011,48.865631,2.370198,open,pharmacy,,v1
+A0304,address_lookup,school,2026-11-11,48.868209,2.371939,P0571,,154 Rue Saint-Maur,75011,48.869241,2.374261,,school,,v1
+A0305,address_lookup,school,2026-11-11,48.849353,2.398111,P0590,,4 Avenue de Bouvines,75011,48.849882,2.396456,,school,,v1
+A0306,address_lookup,school,2026-11-11,48.857732,2.377164,P0661,,42 Rue Bréguet,75011,48.858349,2.37618,,school,,v1
+A0307,category_search,pharmacy,2026-11-11,48.8524,2.378087,P0065,,63 Rue de Charonne,75011,48.853517,2.379845,open,pharmacy,,v1
+A0308,address_lookup,pharmacy,2026-11-11,48.86396,2.374954,P0106,,7B Rue des Trois Bornes,75011,48.864145,2.37079,,pharmacy,,v1
+A0309,category_search,pharmacy,2026-11-11,48.857551,2.365631,P0479,P0220,26 Boulevard Richard Lenoir,75011,48.856485,2.371096,open,pharmacy,,v1
+A0310,find_nearest,pharmacy,2026-11-11,48.865559,2.38503,P0293,,2 Rue Plichon,75011,48.862527,2.385418,open,pharmacy,,v1
+A0311,address_lookup,school,2026-11-12,48.860418,2.382138,P0595,,98 Avenue de la République,75011,48.863652,2.382406,,school,,v2
+A0312,find_nearest,pharmacy,2026-11-12,48.859287,2.370684,P0075,,2 Boulevard des Filles du Calvaire,75011,48.860882,2.367491,open,pharmacy,,v2
+A0313,opening_status,pharmacy,2026-11-12,48.867811,2.379376,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867317,2.375577,open now,pharmacy,yes,v2
+A0314,find_nearest,pharmacy,2026-11-12,48.860394,2.375422,P0096,,41 Rue Popincourt,75011,48.859088,2.376031,open,pharmacy,,v2
+A0315,opening_status,pharmacy,2026-11-12,48.868993,2.374279,P0077,,97 Rue Jean-Pierre Timbaud,75011,48.868675,2.379846,open now,pharmacy,yes,v2
+A0316,find_nearest,school,2026-11-12,48.853032,2.38611,P0626,,14 Rue Titon,75011,48.851467,2.386487,open,school,,v2
+A0317,find_nearest,school,2026-11-12,48.857963,2.381049,P0610,,144 Rue de la Roquette,75011,48.858078,2.382303,open,school,,v2
+A0318,opening_status,pharmacy,2026-11-12,48.862576,2.377816,P0099,,53 Avenue de la République,75011,48.864855,2.377434,open now,pharmacy,yes,v2
+A0319,find_nearest,pharmacy,2026-11-12,48.853367,2.386027,P0095,,24 Rue Paul Bert,75011,48.852515,2.384953,open,pharmacy,,v2
+A0320,opening_status,pharmacy,2026-11-12,48.855846,2.38912,P0066,,127 Rue de Charonne,75011,48.855051,2.386407,open now,pharmacy,yes,v2
+A0321,find_nearest,pharmacy,2026-11-12,48.849715,2.399463,P0085,,13 Place de la Nation,75011,48.848968,2.397376,open,pharmacy,,v2
+A0322,address_lookup,pharmacy,2026-11-12,48.866753,2.37406,P0098,,48 Avenue de la République,75011,48.865186,2.374288,,pharmacy,,v2
+A0323,category_search,pharmacy,2026-11-12,48.860877,2.369732,P0516,P0211,24 Rue Oberkampf,75011,48.863506,2.369698,open,pharmacy,,v2
+A0324,address_lookup,school,2026-11-12,48.862839,2.379347,P0595,,98 Avenue de la République,75011,48.86366,2.382425,,school,,v2
+A0325,find_nearest,pharmacy,2026-11-12,48.862416,2.368206,P0086,,24 Rue Oberkampf,75011,48.863505,2.369697,open,pharmacy,,v2
+A0326,find_nearest,school,2026-11-12,48.851243,2.384205,P0620,,18 Rue Faidherbe,75011,48.851598,2.383956,open,school,,v2
+A0327,opening_status,pharmacy,2026-11-12,48.866421,2.373585,P0445,,33 Avenue de la République,75011,48.865711,2.373201,open now,pharmacy,yes,v2
+A0328,find_nearest,pharmacy,2026-11-12,48.867837,2.378667,P0078,,98 Rue Jean-Pierre Timbaud,75011,48.867774,2.378191,open,pharmacy,,v2
+A0329,find_nearest,pharmacy,2026-11-12,48.86141,2.38695,P0117,,52 Rue de la Folie-Regnault,75011,48.859732,2.386787,open,pharmacy,,v2
+A0330,find_nearest,pharmacy,2026-11-12,48.856569,2.375819,P0100,,51B Rue de la Roquette,75011,48.855804,2.374997,open,pharmacy,,v2
+A0331,category_search,pharmacy,2026-11-12,48.857526,2.386261,P0273,,131 Rue de la Roquette,75011,48.858554,2.383222,open,pharmacy,,v2
+A0332,address_lookup,school,2026-11-12,48.861402,2.378584,P0619,,6 Rue des Bluets,75011,48.864312,2.381899,,school,,v2
+A0333,find_nearest,pharmacy,2026-11-12,48.868586,2.371449,P0409,,18 Rue du Faubourg du Temple,75011,48.868307,2.366079,open,pharmacy,,v2
+A0334,opening_status,pharmacy,2026-11-12,48.858245,2.385971,P0066,,127 Rue de Charonne,75011,48.855004,2.386368,open now,pharmacy,no,v2
+A0335,category_search,pharmacy,2026-11-12,48.860983,2.36346,P0075,,2 Boulevard des Filles du Calvaire,75011,48.860917,2.367567,open,pharmacy,,v2
+A0336,opening_status,pharmacy,2026-11-12,48.861591,2.389072,P0068,,119 Rue du Chemin Vert,75011,48.861783,2.382978,open now,pharmacy,yes,v2
+A0337,category_search,pharmacy,2026-11-12,48.846945,2.390173,P0315,P0225,305 Rue du Faubourg Saint-Antoine,75011,48.84906,2.392403,open,pharmacy,,v2
+A0338,find_nearest,pharmacy,2026-11-12,48.86733,2.380724,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867303,2.375522,open,pharmacy,,v2
+A0339,address_lookup,school,2026-11-12,48.858172,2.373523,P0607,,11B Avenue Parmentier,75011,48.859748,2.378822,,school,,v2
+A0340,address_lookup,school,2026-11-12,48.859846,2.380429,P0607,,11B Avenue Parmentier,75011,48.857072,2.379131,,school,,v2
+A0341,category_search,pharmacy,2026-11-12,48.861291,2.387296,P0273,,131 Rue de la Roquette,75011,48.8586,2.383244,open,pharmacy,,v2
+A0342,find_nearest,school,2026-11-12,48.858883,2.381414,P0610,,144 Rue de la Roquette,75011,48.858111,2.382328,open,school,,v2
+A0343,opening_status,pharmacy,2026-11-12,48.864056,2.368167,P0088,,56 Rue Oberkampf,75011,48.864743,2.373289,open now,pharmacy,no,v2
+A0344,category_search,pharmacy,2026-11-12,48.869318,2.372294,P0092,,97 Avenue Parmentier,75011,48.866378,2.373569,open,pharmacy,,v2
+A0345,opening_status,pharmacy,2026-11-12,48.855357,2.376371,P0079,,97 Avenue Ledru-Rollin,75011,48.852092,2.376463,open now,pharmacy,yes,v2
+A0346,category_search,pharmacy,2026-11-13,48.861178,2.367146,P0105,,4 Boulevard du Temple,75011,48.863675,2.366712,open,pharmacy,,v2
+A0347,find_nearest,pharmacy,2026-11-13,48.86298,2.36372,P0386,,34 Boulevard du Temple,75011,48.865263,2.365782,open,pharmacy,,v2
+A0348,address_lookup,pharmacy,2026-11-13,48.86029,2.369946,P0076,,24 Rue de la Folie-Méricourt,75011,48.862634,2.37349,,pharmacy,,v2
+A0349,category_search,pharmacy,2026-11-13,48.8566,2.38237,P0102,,150 Rue de la Roquette,75011,48.858229,2.382823,open,pharmacy,,v2
+A0350,address_lookup,pharmacy,2026-11-13,48.86483,2.375325,P0087,,39 Rue Oberkampf,75011,48.864387,2.371334,,pharmacy,,v2
+A0351,opening_status,pharmacy,2026-11-13,48.865853,2.379025,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867234,2.375523,open now,pharmacy,yes,v2
+A0352,find_nearest,school,2026-11-13,48.863105,2.373006,P0673,,95 Avenue Parmentier,75011,48.866219,2.373566,open,school,,v2
+A0353,find_nearest,pharmacy,2026-11-13,48.853431,2.378928,P0065,,63 Rue de Charonne,75011,48.853529,2.379805,open,pharmacy,,v2
+A0354,address_lookup,school,2026-11-13,48.863771,2.379247,P0611,,54 Rue Servan,75011,48.863041,2.381825,,school,,v2
+A0355,opening_status,pharmacy,2026-11-13,48.865217,2.376152,P0104,,102 Rue Saint-Maur,75011,48.866074,2.377135,open now,pharmacy,yes,v2
+A0356,address_lookup,pharmacy,2026-11-13,48.861913,2.372175,P0096,,41 Rue Popincourt,75011,48.859114,2.376029,,pharmacy,,v2
+A0357,find_nearest,pharmacy,2026-11-13,48.866621,2.375366,P0092,,97 Avenue Parmentier,75011,48.866418,2.373535,open,pharmacy,,v2
+A0358,category_search,pharmacy,2026-11-13,48.865903,2.369499,P0205,,5 Place de la République,75011,48.866529,2.364276,open,pharmacy,,v2
+A0359,category_search,pharmacy,2026-11-13,48.849374,2.375069,P0072,,137 Rue du Faubourg Saint-Antoine,75011,48.850979,2.377988,open,pharmacy,,v2
+A0360,address_lookup,school,2026-11-13,48.849966,2.398071,P0590,,4 Avenue de Bouvines,75011,48.84987,2.396523,,school,,v2
+A0361,find_nearest,pharmacy,2026-11-13,48.855308,2.378769,P0081,,164 Avenue Ledru-Rollin,75011,48.856621,2.37941,open,pharmacy,,v2
+A0362,opening_status,pharmacy,2026-11-13,48.859799,2.378865,P0110,,113 Boulevard Voltaire,75011,48.857394,2.381129,open now,pharmacy,no,v2
+A0363,opening_status,pharmacy,2026-11-13,48.854522,2.364625,P0061,,46 Boulevard Beaumarchais,75011,48.85692,2.368461,open now,pharmacy,yes,v2
+A0364,address_lookup,pharmacy,2026-11-13,48.864784,2.369017,P0108,,34 Boulevard Voltaire,75011,48.864025,2.369275,,pharmacy,,v2
+A0365,address_lookup,school,2026-11-13,48.859827,2.383843,P0628,,10B Rue Duranti,75011,48.858245,2.38737,,school,,v2
+A0366,find_nearest,pharmacy,2026-11-13,48.868668,2.382414,P0062,,9 Boulevard de Belleville,75011,48.867695,2.381985,open,pharmacy,,v2
+A0367,category_search,pharmacy,2026-11-13,48.863186,2.369305,P0105,,4 Boulevard du Temple,75011,48.863697,2.36677,open,pharmacy,,v2
+A0368,opening_status,pharmacy,2026-11-13,48.865209,2.382943,P0104,,102 Rue Saint-Maur,75011,48.866044,2.377162,open now,pharmacy,no,v2
+A0369,address_lookup,pharmacy,2026-11-13,48.859827,2.380156,P0082,,1 Place Léon Blum,75011,48.85761,2.379493,,pharmacy,,v2
+A0370,find_nearest,pharmacy,2026-11-13,48.8462,2.391939,P0074,,305 Rue du Faubourg Saint-Antoine,75011,48.849024,2.392422,open,pharmacy,,v2
+A0371,opening_status,pharmacy,2026-11-13,48.861988,2.375895,P0096,,41 Rue Popincourt,75011,48.859095,2.37602,open now,pharmacy,yes,v2
+A0372,category_search,pharmacy,2026-11-13,48.853287,2.377919,P0081,,164 Avenue Ledru-Rollin,75011,48.856615,2.37935,open,pharmacy,,v2
+A0373,address_lookup,pharmacy,2026-11-13,48.857886,2.377221,P0101,,81 Rue de la Roquette,75011,48.856904,2.377941,,pharmacy,,v2
+A0374,find_nearest,pharmacy,2026-11-13,48.865108,2.371742,P0289,,106 Boulevard Richard Lenoir,75011,48.863783,2.371723,open,pharmacy,,v2
+A0375,address_lookup,school,2026-11-13,48.85089,2.382824,P0601,,31 Rue Saint-Bernard,75011,48.852712,2.380908,,school,,v2
+A0376,address_lookup,school,2026-11-13,48.860266,2.385565,P0628,,10B Rue Duranti,75011,48.85856,2.379531,,school,,v2
+A0377,find_nearest,pharmacy,2026-11-14,48.850816,2.391378,P0113,,264 Boulevard Voltaire,75011,48.84994,2.392847,open,pharmacy,,v2
+A0378,address_lookup,pharmacy,2026-11-14,48.869064,2.367856,P0070,,28 Rue du Faubourg du Temple,75011,48.868556,2.366833,,pharmacy,,v2
+A0379,find_nearest,pharmacy,2026-11-14,48.867759,2.372374,P0093,,130 Avenue Parmentier,75011,48.86851,2.372272,open,pharmacy,,v2
+A0380,address_lookup,pharmacy,2026-11-14,48.867103,2.374907,P0106,,7B Rue des Trois Bornes,75011,48.865909,2.376397,,pharmacy,,v2
+A0381,address_lookup,pharmacy,2026-11-14,48.858725,2.386837,P0067,,136 Rue de Charonne,75011,48.855242,2.388186,,pharmacy,,v2
+A0382,find_nearest,school,2026-11-14,48.861368,2.375561,P0605,,2 Passage Beslay,75011,48.862984,2.373506,open,school,,v2
+A0383,category_search,pharmacy,2026-11-14,48.85721,2.382826,P0102,,150 Rue de la Roquette,75011,48.858204,2.382817,open,pharmacy,,v2
+A0384,opening_status,pharmacy,2026-11-14,48.850945,2.378043,P0080,,116 Avenue Ledru-Rollin,75011,48.853001,2.377313,open now,pharmacy,no,v2
+A0385,address_lookup,school,2026-11-14,48.861312,2.364741,P0597,,24 Rue Saint-Sébastien,75011,48.861131,2.369509,,school,,v2
+A0386,find_nearest,pharmacy,2026-11-14,48.860238,2.374418,P0109,,69 Boulevard Voltaire,75011,48.861517,2.37417,open,pharmacy,,v2
+A0387,category_search,pharmacy,2026-11-14,48.84951,2.380258,P0080,,116 Avenue Ledru-Rollin,75011,48.853055,2.377275,open,pharmacy,,v2
+A0388,find_nearest,pharmacy,2026-11-14,48.866167,2.369944,P0034,,130 Boulevard Richard Lenoir,75011,48.865616,2.370205,open,pharmacy,,v2
+A0389,find_nearest,pharmacy,2026-11-14,48.858017,2.382613,NONE,,31 Rue Pétion,75011,48.859626,2.380686,open,pharmacy,,v2
+A0390,opening_status,pharmacy,2026-11-14,48.869958,2.3724,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867258,2.375562,open now,pharmacy,yes,v2
+A0391,opening_status,pharmacy,2026-11-14,48.853976,2.384992,P0450,,9 Rue de Belfort,75011,48.856556,2.383637,open now,pharmacy,yes,v2
+A0392,category_search,pharmacy,2026-11-14,48.860849,2.369657,P0516,P0211,24 Rue Oberkampf,75011,48.863481,2.369687,open,pharmacy,,v2
+A0393,category_search,pharmacy,2026-11-14,48.871877,2.373616,P0097,,13 Rue de la Présentation,75011,48.871297,2.376225,open,pharmacy,,v2
+A0394,find_nearest,school,2026-11-14,48.865644,2.377522,P0672,,95 Avenue Parmentier,75011,48.866255,2.373642,open,school,,v2
+A0395,address_lookup,pharmacy,2026-11-14,48.86712,2.367485,P0107,,29 Boulevard Voltaire,75011,48.864826,2.368705,,pharmacy,,v2
+A0396,address_lookup,school,2026-11-14,48.865386,2.387521,P0599,,100 Avenue de la République,75011,48.863604,2.382755,,school,,v2
+A0397,opening_status,pharmacy,2026-11-14,48.861302,2.368446,P0076,,24 Rue de la Folie-Méricourt,75011,48.862657,2.373537,open now,pharmacy,no,v2
+A0398,address_lookup,school,2026-11-14,48.850732,2.394177,P0588,,39 Rue Alexandre Dumas,75011,48.853757,2.393225,,school,,v2
+A0399,category_search,pharmacy,2026-11-14,48.851861,2.391632,P0074,,305 Rue du Faubourg Saint-Antoine,75011,48.849056,2.392408,open,pharmacy,,v2
+A0400,opening_status,pharmacy,2026-11-14,48.85129,2.380475,P0073,,191 Rue du Faubourg Saint-Antoine,75011,48.850533,2.381876,open now,pharmacy,no,v2
+A0401,find_nearest,school,2026-11-14,48.865949,2.367893,P0593,,109 Avenue Parmentier,75011,48.867585,2.372618,open,school,,v2
+A0402,find_nearest,pharmacy,2026-11-14,48.847579,2.393804,P0074,,305 Rue du Faubourg Saint-Antoine,75011,48.849049,2.392378,open,pharmacy,,v2
+A0403,opening_status,pharmacy,2026-11-14,48.869746,2.37729,P0104,,102 Rue Saint-Maur,75011,48.866054,2.377201,open now,pharmacy,yes,v2
+A0404,find_nearest,school,2026-11-14,48.861864,2.384851,P0577,,29 Rue Merlin,75011,48.861312,2.384805,open,school,,v2
+A0405,address_lookup,school,2026-11-14,48.854324,2.391959,P0588,,39 Rue Alexandre Dumas,75011,48.853715,2.393228,,school,,v2
+A0406,category_search,pharmacy,2026-11-14,48.857272,2.365652,P0061,,46 Boulevard Beaumarchais,75011,48.856881,2.368489,open,pharmacy,,v2
+A0407,address_lookup,school,2026-11-14,48.858384,2.375134,P0664,,5 Impasse des Trois Soeurs,75011,48.858649,2.377344,,school,,v2
+A0408,category_search,pharmacy,2026-11-14,48.859648,2.377923,P0273,,131 Rue de la Roquette,75011,48.858613,2.38326,open,pharmacy,,v2
+A0409,category_search,pharmacy,2026-11-14,48.853907,2.381558,P0207,,153 Boulevard Voltaire,75011,48.855303,2.384575,open,pharmacy,,v2
+A0410,find_nearest,pharmacy,2026-11-15,48.865231,2.37162,P0087,,39 Rue Oberkampf,75011,48.864359,2.371302,open,pharmacy,,v2
+A0411,opening_status,pharmacy,2026-11-15,48.869827,2.387141,P0062,,9 Boulevard de Belleville,75011,48.867735,2.381908,open now,pharmacy,yes,v2
+A0412,find_nearest,pharmacy,2026-11-15,48.872316,2.381496,P0063,,43 Boulevard de Belleville,75011,48.869174,2.380043,open,pharmacy,,v2
+A0413,opening_status,pharmacy,2026-11-15,48.872164,2.377483,P0097,,13 Rue de la Présentation,75011,48.871296,2.376334,open now,pharmacy,yes,v2
+A0414,address_lookup,school,2026-11-15,48.866182,2.370369,P0602,,39 Rue des Trois Bornes,75011,48.867353,2.374629,,school,,v2
+A0415,find_nearest,pharmacy,2026-11-15,48.855642,2.386207,P0066,,127 Rue de Charonne,75011,48.855043,2.386399,open,pharmacy,,v2
+A0416,find_nearest,pharmacy,2026-11-15,48.858993,2.371816,NONE,,82 Boulevard Voltaire,75011,48.860873,2.374624,open,pharmacy,,v2
+A0417,category_search,pharmacy,2026-11-15,48.870994,2.381899,P0062,,9 Boulevard de Belleville,75011,48.867707,2.381928,open,pharmacy,,v2
+A0418,find_nearest,pharmacy,2026-11-15,48.864441,2.376049,P0099,,53 Avenue de la République,75011,48.864847,2.377529,open,pharmacy,,v2
+A0419,opening_status,pharmacy,2026-11-15,48.854854,2.369123,P0116,,6 Boulevard Richard Lenoir,75011,48.854252,2.370079,open now,pharmacy,yes,v2
+A0420,find_nearest,pharmacy,2026-11-15,48.866969,2.381516,P0089,,152 Rue Oberkampf,75011,48.866589,2.381598,open,pharmacy,,v2
+A0421,address_lookup,school,2026-11-15,48.857363,2.378212,P0621,,4 Passage Bullourde,75011,48.854545,2.376779,,school,,v2
+A0422,address_lookup,pharmacy,2026-11-15,48.862338,2.380943,P0068,,119 Rue du Chemin Vert,75011,48.861744,2.382992,,pharmacy,,v2
+A0423,opening_status,pharmacy,2026-11-15,48.860372,2.386197,P0293,,2 Rue Plichon,75011,48.862537,2.385475,open now,pharmacy,yes,v2
+A0424,address_lookup,pharmacy,2026-11-15,48.84793,2.394166,P0074,,305 Rue du Faubourg Saint-Antoine,75011,48.849029,2.392349,,pharmacy,,v2
+A0425,find_nearest,school,2026-11-15,48.86028,2.375319,P0658,,41 Rue Bréguet,75011,48.85851,2.376195,open,school,,v2
+A0426,find_nearest,school,2026-11-15,48.859351,2.383131,P0596,,22 Rue Saint-Maur,75011,48.860279,2.382085,open,school,,v2
+A0427,address_lookup,school,2026-11-15,48.85462,2.377026,P0573,,16 Rue Basfroi,75011,48.85454,2.379703,,school,,v2
+A0428,opening_status,pharmacy,2026-11-15,48.853455,2.372383,P0114,,26 Boulevard Richard Lenoir,75011,48.856515,2.371132,open now,pharmacy,no,v2
+A0429,category_search,pharmacy,2026-11-15,48.874711,2.376901,P0059,,23 Boulevard de la Villette,75011,48.873281,2.375252,open,pharmacy,,v2
+A0430,find_nearest,pharmacy,2026-11-15,48.869601,2.373913,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867266,2.375566,open,pharmacy,,v2
+A0431,find_nearest,pharmacy,2026-11-15,48.861204,2.386539,P0451,,22 Rue Gerbier,75011,48.858981,2.386105,open,pharmacy,,v2
+A0432,find_nearest,pharmacy,2026-11-15,48.865944,2.377002,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867273,2.37557,open,pharmacy,,v2
+A0433,opening_status,pharmacy,2026-11-15,48.864789,2.372751,P0289,,106 Boulevard Richard Lenoir,75011,48.863771,2.371692,open now,pharmacy,yes,v2
+A0434,opening_status,pharmacy,2026-11-15,48.853973,2.385309,P0095,,24 Rue Paul Bert,75011,48.852517,2.384965,open now,pharmacy,yes,v2
+A0435,find_nearest,pharmacy,2026-11-15,48.858134,2.382215,P0102,,150 Rue de la Roquette,75011,48.858211,2.382792,open,pharmacy,,v2
+A0436,address_lookup,pharmacy,2026-11-15,48.8648,2.372466,P0105,,4 Boulevard du Temple,75011,48.863717,2.366742,,pharmacy,,v2
+A0437,address_lookup,pharmacy,2026-11-15,48.85479,2.389646,P0095,,24 Rue Paul Bert,75011,48.852517,2.384996,,pharmacy,,v2
+A0438,category_search,pharmacy,2026-11-15,48.867353,2.368818,P0105,,4 Boulevard du Temple,75011,48.86366,2.366675,open,pharmacy,,v2
+A0439,address_lookup,school,2026-11-15,48.869822,2.376643,P0604,,4B Rue de la Présentation,75011,48.870229,2.372998,,school,,v2
+A0440,find_nearest,pharmacy,2026-11-15,48.868205,2.373717,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867285,2.375591,open,pharmacy,,v2
+A0441,address_lookup,school,2026-11-16,48.854925,2.380693,P0573,,16 Rue Basfroi,75011,48.854569,2.379735,,school,,v2
+A0442,category_search,pharmacy,2026-11-16,48.858336,2.365149,P0075,,2 Boulevard des Filles du Calvaire,75011,48.860878,2.367538,open,pharmacy,,v2
+A0443,address_lookup,pharmacy,2026-11-16,48.854517,2.37416,P0100,,51B Rue de la Roquette,75011,48.853273,2.372385,,pharmacy,,v2
+A0444,find_nearest,pharmacy,2026-11-16,48.862602,2.372533,P0076,,24 Rue de la Folie-Méricourt,75011,48.862659,2.373543,open,pharmacy,,v2
+A0445,address_lookup,school,2026-11-16,48.856207,2.384278,P0573,,16 Rue Basfroi,75011,48.854539,2.379815,,school,,v2
+A0446,find_nearest,school,2026-11-16,48.850749,2.394186,P0606,,6 Avenue de Bouvines,75011,48.850292,2.396525,open,school,,v2
+A0447,opening_status,pharmacy,2026-11-16,48.859941,2.36606,P0105,,4 Boulevard du Temple,75011,48.863697,2.366751,open now,pharmacy,yes,v2
+A0448,find_nearest,pharmacy,2026-11-16,48.865275,2.366931,P0386,,34 Boulevard du Temple,75011,48.865275,2.365802,open,pharmacy,,v2
+A0449,find_nearest,school,2026-11-16,48.865322,2.372717,P0673,,95 Avenue Parmentier,75011,48.866246,2.373581,open,school,,v2
+A0450,category_search,pharmacy,2026-11-16,48.84928,2.39545,NONE,,12 Rue des Immeubles Industriels,75011,48.849639,2.392793,open,pharmacy,,v2
+A0451,find_nearest,pharmacy,2026-11-16,48.853797,2.383817,P0069,,43 Rue Faidherbe,75011,48.853735,2.382316,open,pharmacy,,v2
+A0452,find_nearest,school,2026-11-16,48.86788,2.365406,P0730,,13 Rue de la Fontaine au Roi,75011,48.868611,2.369627,open,school,,v2
+A0453,address_lookup,pharmacy,2026-11-16,48.866891,2.380966,P0062,,9 Boulevard de Belleville,75011,48.86771,2.382004,,pharmacy,,v2
+A0454,opening_status,pharmacy,2026-11-16,48.856003,2.377563,P0101,,81 Rue de la Roquette,75011,48.85688,2.377991,open now,pharmacy,yes,v2
+A0455,opening_status,pharmacy,2026-11-16,48.861398,2.378418,P0076,,24 Rue de la Folie-Méricourt,75011,48.862667,2.373487,open now,pharmacy,yes,v2
+A0456,address_lookup,school,2026-11-16,48.85648,2.384968,P0633,,31 Rue Godefroy Cavaignac,75011,48.855731,2.380712,,school,,v2
+A0457,find_nearest,pharmacy,2026-11-16,48.85263,2.385597,P0095,,24 Rue Paul Bert,75011,48.852533,2.384953,open,pharmacy,,v2
+A0458,find_nearest,school,2026-11-16,48.868524,2.374629,P0571,,154 Rue Saint-Maur,75011,48.869247,2.374268,open,school,,v2
+A0459,address_lookup,pharmacy,2026-11-16,48.865092,2.374763,P0034,,130 Boulevard Richard Lenoir,75011,48.865639,2.370145,,pharmacy,,v2
+A0460,address_lookup,pharmacy,2026-11-16,48.862832,2.376263,P0076,,24 Rue de la Folie-Méricourt,75011,48.862702,2.373578,,pharmacy,,v2
+A0461,category_search,pharmacy,2026-11-16,48.863827,2.381169,P0099,,53 Avenue de la République,75011,48.864814,2.377521,open,pharmacy,,v2
+A0462,opening_status,pharmacy,2026-11-16,48.864411,2.372299,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867271,2.375572,open now,pharmacy,yes,v2
+A0463,address_lookup,school,2026-11-16,48.852974,2.386317,P0626,,14 Rue Titon,75011,48.851497,2.386529,,school,,v2
+A0464,opening_status,pharmacy,2026-11-16,48.849345,2.393415,P0074,,305 Rue du Faubourg Saint-Antoine,75011,48.849022,2.392353,open now,pharmacy,yes,v2
+A0465,opening_status,pharmacy,2026-11-16,48.85364,2.373628,P0527,,10 Rue Bréguet,75011,48.856742,2.372005,open now,pharmacy,yes,v2
+A0466,address_lookup,pharmacy,2026-11-16,48.868828,2.369389,P0106,,7B Rue des Trois Bornes,75011,48.866287,2.37153,,pharmacy,,v2
+A0467,address_lookup,school,2026-11-16,48.864853,2.371272,P0614,,39 Rue des Trois Bornes,75011,48.867346,2.374595,,school,,v2
+A0468,address_lookup,school,2026-11-16,48.852429,2.391839,P0588,,39 Rue Alexandre Dumas,75011,48.853751,2.393266,,school,,v2
+A0469,category_search,pharmacy,2026-11-16,48.863211,2.374132,P0482,P0238,130 Boulevard Richard Lenoir,75011,48.865777,2.370215,open,pharmacy,,v2
+A0470,find_nearest,pharmacy,2026-11-16,48.843885,2.385507,P0129,,88 Boulevard Diderot,75011,48.846881,2.384014,open,pharmacy,,v2
+A0471,find_nearest,school,2026-11-16,48.852997,2.379103,P0612,,39 Rue Saint-Bernard,75011,48.853233,2.380521,open,school,,v2
+A0472,address_lookup,pharmacy,2026-11-16,48.863785,2.372098,P0086,,24 Rue Oberkampf,75011,48.863478,2.369661,,pharmacy,,v2
+A0473,category_search,pharmacy,2026-11-16,48.861556,2.372793,P0563,P0222,38 Avenue Parmentier,75011,48.861325,2.377811,open,pharmacy,,v2
+A0474,address_lookup,school,2026-11-17,48.873068,2.373781,P0641,,38 Rue du Moulin Joly,75011,48.870379,2.377831,,school,,v2
+A0475,address_lookup,pharmacy,2026-11-17,48.866907,2.374353,P0088,,56 Rue Oberkampf,75011,48.864786,2.373325,,pharmacy,,v2
+A0476,address_lookup,school,2026-11-17,48.862549,2.375615,P0622,,19 Rue Alphonse Baudin,75011,48.861249,2.37007,,school,,v2
+A0477,category_search,pharmacy,2026-11-17,48.850339,2.375061,P0291,,22 Rue Trousseau,75011,48.851619,2.378853,open,pharmacy,,v2
+A0478,opening_status,pharmacy,2026-11-17,48.856188,2.386618,P0110,,113 Boulevard Voltaire,75011,48.857428,2.381144,open now,pharmacy,yes,v2
+A0479,find_nearest,school,2026-11-17,48.859794,2.381305,P0596,,22 Rue Saint-Maur,75011,48.860292,2.382013,open,school,,v2
+A0480,opening_status,pharmacy,2026-11-17,48.853574,2.376639,P0064,,16 Rue de Charonne,75011,48.852717,2.37459,open now,pharmacy,yes,v2
+A0481,address_lookup,school,2026-11-17,48.863505,2.383738,P0611,,54 Rue Servan,75011,48.863014,2.381821,,school,,v2
+A0482,find_nearest,pharmacy,2026-11-17,48.860736,2.381378,P0068,,119 Rue du Chemin Vert,75011,48.861802,2.382958,open,pharmacy,,v2
+A0483,address_lookup,school,2026-11-17,48.866093,2.377757,P0619,,6 Rue des Bluets,75011,48.8643,2.381871,,school,,v2
+A0484,address_lookup,school,2026-11-17,48.871696,2.377793,P0641,,38 Rue du Moulin Joly,75011,48.870396,2.377871,,school,,v2
+A0485,category_search,pharmacy,2026-11-17,48.867782,2.365161,NONE,,15 Rue de la Fontaine au Roi,75011,48.868506,2.369777,open,pharmacy,,v2
+A0486,address_lookup,pharmacy,2026-11-17,48.864694,2.374782,P0106,,7B Rue des Trois Bornes,75011,48.868205,2.371526,,pharmacy,,v2
+A0487,address_lookup,school,2026-11-17,48.855341,2.37601,P0621,,4 Passage Bullourde,75011,48.854573,2.376717,,school,,v2
+A0488,opening_status,pharmacy,2026-11-17,48.867011,2.373791,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867323,2.375543,open now,pharmacy,yes,v2
+A0489,find_nearest,pharmacy,2026-11-17,48.851275,2.394727,P0113,,264 Boulevard Voltaire,75011,48.849993,2.392813,open,pharmacy,,v2
+A0490,find_nearest,pharmacy,2026-11-17,48.862857,2.365786,P0105,,4 Boulevard du Temple,75011,48.863649,2.366627,open,pharmacy,,v2
+A0491,category_search,pharmacy,2026-11-17,48.852857,2.398951,P0168,,38 Boulevard de Charonne,75011,48.850929,2.398868,open,pharmacy,,v2
+A0492,find_nearest,pharmacy,2026-11-17,48.860463,2.370545,P0002,,91 Boulevard Beaumarchais,75011,48.859376,2.367449,open,pharmacy,,v2
+A0493,address_lookup,school,2026-11-17,48.857992,2.38498,P0633,,31 Rue Godefroy Cavaignac,75011,48.855761,2.380698,,school,,v2
+A0494,address_lookup,school,2026-11-17,48.855593,2.368786,P0591,,13 Rue Froment,75011,48.857414,2.372493,,school,,v2
+A0495,find_nearest,pharmacy,2026-11-17,48.865848,2.367072,P0386,,34 Boulevard du Temple,75011,48.865245,2.365769,open,pharmacy,,v2
+A0496,opening_status,pharmacy,2026-11-17,48.863448,2.368547,P0445,,33 Avenue de la République,75011,48.865709,2.373136,open now,pharmacy,yes,v2
+A0497,find_nearest,pharmacy,2026-11-17,48.864575,2.373602,P0088,,56 Rue Oberkampf,75011,48.864744,2.373344,open,pharmacy,,v2
+A0498,address_lookup,school,2026-11-17,48.853364,2.391934,P0613,,4 Cité Souzy,75011,48.85175,2.388638,,school,,v2
+A0499,category_search,pharmacy,2026-11-17,48.849022,2.379588,P0118,,9 Place d'Aligre,75011,48.849142,2.3785,open,pharmacy,,v2
+A0500,find_nearest,school,2026-11-17,48.863748,2.37813,P0575,,11 Passage Saint-Ambroise,75011,48.863679,2.377058,open,school,,v2
+A0501,address_lookup,pharmacy,2026-11-18,48.847825,2.394121,P0113,,264 Boulevard Voltaire,75011,48.849977,2.392793,,pharmacy,,v2
+A0502,address_lookup,school,2026-11-18,48.85447,2.378279,P0598,,4 Rue Keller,75011,48.853642,2.376882,,school,,v2
+A0503,opening_status,pharmacy,2026-11-18,48.869151,2.380331,P0062,,9 Boulevard de Belleville,75011,48.867706,2.381973,open now,pharmacy,no,v2
+A0504,opening_status,pharmacy,2026-11-18,48.856382,2.380516,P0110,,113 Boulevard Voltaire,75011,48.857399,2.381167,open now,pharmacy,yes,v2
+A0505,opening_status,pharmacy,2026-11-18,48.853827,2.382044,P0110,,113 Boulevard Voltaire,75011,48.85742,2.381068,open now,pharmacy,yes,v2
+A0506,opening_status,pharmacy,2026-11-18,48.85379,2.378608,P0065,,63 Rue de Charonne,75011,48.853495,2.379817,open now,pharmacy,yes,v2
+A0507,find_nearest,pharmacy,2026-11-18,48.864493,2.380638,NONE,,20 Rue du Général Guilhem,75011,48.861988,2.379593,open,pharmacy,,v2
+A0508,address_lookup,school,2026-11-18,48.867602,2.377379,P0614,,39 Rue des Trois Bornes,75011,48.867345,2.374602,,school,,v2
+A0509,address_lookup,school,2026-11-18,48.852643,2.386073,P0626,,14 Rue Titon,75011,48.851536,2.386505,,school,,v2
+A0510,opening_status,pharmacy,2026-11-18,48.855546,2.365857,P0116,,6 Boulevard Richard Lenoir,75011,48.854238,2.370015,open now,pharmacy,no,v2
+A0511,address_lookup,school,2026-11-18,48.867389,2.37099,P0608,,111 Avenue Parmentier,75011,48.867923,2.372425,,school,,v2
+A0512,find_nearest,pharmacy,2026-11-18,48.866401,2.373987,P0411,,65 Rue Jean-Pierre Timbaud,75011,48.867284,2.375573,open,pharmacy,,v2
+A0513,opening_status,pharmacy,2026-11-18,48.860463,2.37847,P0091,,38 Avenue Parmentier,75011,48.861363,2.377865,open now,pharmacy,no,v2
+A0514,category_search,pharmacy,2026-11-18,48.852975,2.384918,P0207,,153 Boulevard Voltaire,75011,48.855286,2.384598,open,pharmacy,,v2
+A0515,opening_status,pharmacy,2026-11-18,48.859154,2.374696,P0109,,69 Boulevard Voltaire,75011,48.861507,2.374148,open now,pharmacy,yes,v2
+A0516,find_nearest,pharmacy,2026-11-18,48.867242,2.373156,P0445,,33 Avenue de la République,75011,48.865652,2.373235,open,pharmacy,,v2
+A0517,category_search,pharmacy,2026-11-18,48.853947,2.377544,P0080,,116 Avenue Ledru-Rollin,75011,48.853072,2.377337,open,pharmacy,,v2
+A0518,address_lookup,school,2026-11-18,48.85082,2.378308,P0601,,31 Rue Saint-Bernard,75011,48.85275,2.380854,,school,,v2
+A0519,category_search,pharmacy,2026-11-18,48.859423,2.371379,P0061,,46 Boulevard Beaumarchais,75011,48.856894,2.368513,open,pharmacy,,v2
+A0520,address_lookup,school,2026-11-18,48.865274,2.377448,P0619,,6 Rue des Bluets,75011,48.8643,2.381875,,school,,v2
+A0521,address_lookup,pharmacy,2026-11-18,48.854652,2.373665,P0116,,6 Boulevard Richard Lenoir,75011,48.85426,2.370039,,pharmacy,,v2
+A0522,address_lookup,pharmacy,2026-11-18,48.854664,2.377354,P0100,,51B Rue de la Roquette,75011,48.855816,2.374989,,pharmacy,,v2
+A0523,opening_status,pharmacy,2026-11-18,48.860983,2.373201,P0076,,24 Rue de la Folie-Méricourt,75011,48.86268,2.373507,open now,pharmacy,yes,v2
+A0524,category_search,pharmacy,2026-11-18,48.868623,2.371422,P0094,,146 Avenue Parmentier,75011,48.86971,2.371509,open,pharmacy,,v2
+A0525,address_lookup,pharmacy,2026-11-18,48.857118,2.389888,P0117,,52 Rue de la Folie-Regnault,75011,48.859653,2.386731,,pharmacy,,v2
+A0526,category_search,pharmacy,2026-11-18,48.867272,2.363478,P0038,,4 Rue Beaurepaire,75011,48.869089,2.363403,open,pharmacy,,v2
+A0527,opening_status,pharmacy,2026-11-18,48.859399,2.363624,P0075,,2 Boulevard des Filles du Calvaire,75011,48.860851,2.367546,open now,pharmacy,no,v2
+A0528,find_nearest,pharmacy,2026-11-18,48.861172,2.385985,P0154,,11 Place Auguste Métivier,75011,48.863352,2.388313,open,pharmacy,,v2
+A0529,find_nearest,school,2026-11-18,48.854131,2.377408,P0598,,4 Rue Keller,75011,48.853613,2.376861,open,school,,v2
+A0530,category_search,pharmacy,2026-11-18,48.870338,2.376966,P0093,,130 Avenue Parmentier,75011,48.868537,2.372355,open,pharmacy,,v2
+A0531,opening_status,pharmacy,2026-11-18,48.865588,2.381592,P0063,,43 Boulevard de Belleville,75011,48.869222,2.379996,open now,pharmacy,yes,v2
+A0532,find_nearest,pharmacy,2026-11-18,48.85454,2.378069,P0065,,63 Rue de Charonne,75011,48.853463,2.379789,open,pharmacy,,v2
+A0533,category_search,pharmacy,2026-11-18,48.871138,2.381938,P0152,,50 Rue Rébeval,75011,48.874684,2.379737,open,pharmacy,,v2
+A0534,opening_status,pharmacy,2026-11-18,48.864784,2.38223,P0068,,119 Rue du Chemin Vert,75011,48.861793,2.382995,open now,pharmacy,yes,v2
+A0535,opening_status,pharmacy,2026-11-19,48.849754,2.398313,P0085,,13 Place de la Nation,75011,48.849045,2.397348,open now,pharmacy,yes,v2
+A0536,find_nearest,pharmacy,2026-11-19,48.85755,2.389869,P0084,,14 Rue de Mont-Louis,75011,48.858269,2.389221,open,pharmacy,,v2
+A0537,find_nearest,pharmacy,2026-11-19,48.850471,2.379352,P0072,,137 Rue du Faubourg Saint-Antoine,75011,48.850918,2.378016,open,pharmacy,,v2
+A0538,find_nearest,school,2026-11-19,48.856974,2.382185,P0610,,144 Rue de la Roquette,75011,48.858074,2.382307,open,school,,v2
+A0539,address_lookup,school,2026-11-19,48.852132,2.382844,P0620,,18 Rue Faidherbe,75011,48.851604,2.383911,,school,,v2
+A0540,opening_status,pharmacy,2026-11-19,48.852097,2.380593,P0072,,137 Rue du Faubourg Saint-Antoine,75011,48.850922,2.377994,open now,pharmacy,no,v2
+A0541,address_lookup,school,2026-11-19,48.862234,2.378726,P0801,,10B Rue Duranti,75011,48.861769,2.382191,,school,,v2
+A0542,category_search,pharmacy,2026-11-19,48.852178,2.382508,P0079,,97 Avenue Ledru-Rollin,75011,48.852097,2.376426,open,pharmacy,,v2
+A0543,address_lookup,school,2026-11-19,48.861544,2.378921,P0935,,11B Avenue Parmentier,75011,48.85845,2.382478,,school,,v2
+A0544,address_lookup,school,2026-11-19,48.859473,2.380281,P0610,,144 Rue de la Roquette,75011,48.858085,2.382307,,school,,v2
+A0545,opening_status,pharmacy,2026-11-19,48.868502,2.379478,P0062,,9 Boulevard de Belleville,75011,48.867717,2.381899,open now,pharmacy,no,v2
+A0546,category_search,pharmacy,2026-11-19,48.857584,2.368744,P0061,,46 Boulevard Beaumarchais,75011,48.856845,2.368483,open,pharmacy,,v2
+A0547,find_nearest,pharmacy,2026-11-19,48.85211,2.400593,P0204,,7 Cours de Vincennes,75011,48.848462,2.399845,open,pharmacy,,v2
+A0548,address_lookup,pharmacy,2026-11-19,48.856371,2.372204,P0114,,26 Boulevard Richard Lenoir,75011,48.856553,2.371074,,pharmacy,,v2
+A0549,find_nearest,pharmacy,2026-11-19,48.865036,2.375593,P0445,,33 Avenue de la République,75011,48.865642,2.37312,open,pharmacy,,v2
+A0550,address_lookup,school,2026-11-19,48.858432,2.386005,P0801,,10B Rue Duranti,75011,48.858257,2.385135,,school,,v2
+A0551,opening_status,pharmacy,2026-11-19,48.868551,2.367367,P0034,,130 Boulevard Richard Lenoir,75011,48.865608,2.370236,open now,pharmacy,yes,v2
+A0552,find_nearest,pharmacy,2026-11-19,48.867287,2.369208,P0445,,33 Avenue de la République,75011,48.865645,2.373181,open,pharmacy,,v2
+A0553,find_nearest,pharmacy,2026-11-19,48.855662,2.368086,NONE,,13 Rue Bréguet,75011,48.857085,2.372409,open,pharmacy,,v2
+A0554,opening_status,pharmacy,2026-11-19,48.864282,2.373012,P0115,,84 Boulevard Richard Lenoir,75011,48.861597,2.372949,open now,pharmacy,yes,v2
+A0555,opening_status,pharmacy,2026-11-19,48.85708,2.3778,P0081,,164 Avenue Ledru-Rollin,75011,48.856579,2.379351,open now,pharmacy,no,v2
+A0556,address_lookup,pharmacy,2026-11-19,48.852765,2.377768,P0100,,51B Rue de la Roquette,75011,48.853318,2.378047,,pharmacy,,v2
+A0557,find_nearest,pharmacy,2026-11-19,48.868045,2.363038,P0070,,28 Rue du Faubourg du Temple,75011,48.868525,2.366872,open,pharmacy,,v2
+A0558,find_nearest,pharmacy,2026-11-19,48.858623,2.380025,P0082,,1 Place Léon Blum,75011,48.857596,2.379415,open,pharmacy,,v2
+A0559,opening_status,pharmacy,2026-11-19,48.86522,2.378838,P0062,,9 Boulevard de Belleville,75011,48.867761,2.381915,open now,pharmacy,yes,v2
+A0560,opening_status,pharmacy,2026-11-19,48.849487,2.373888,P0064,,16 Rue de Charonne,75011,48.852713,2.374532,open now,pharmacy,yes,v2
+A0561,category_search,pharmacy,2026-11-19,48.862641,2.370155,P0107,,29 Boulevard Voltaire,75011,48.864823,2.368656,open,pharmacy,,v2
+A0562,category_search,pharmacy,2026-11-19,48.86087,2.371826,P0087,,39 Rue Oberkampf,75011,48.864359,2.371312,open,pharmacy,,v2
+A0563,find_nearest,school,2026-11-20,48.852562,2.389238,P0615,,6 Cité Voltaire,75011,48.852586,2.390029,open,school,,v2
+A0564,find_nearest,school,2026-11-20,48.861124,2.381837,P0596,,22 Rue Saint-Maur,75011,48.860321,2.382025,open,school,,v2
+A0565,category_search,pharmacy,2026-11-20,48.849147,2.378518,P0072,,137 Rue du Faubourg Saint-Antoine,75011,48.850939,2.378089,open,pharmacy,,v2
+A0566,category_search,pharmacy,2026-11-20,48.86205,2.376501,P0091,,38 Avenue Parmentier,75011,48.861419,2.37784,open,pharmacy,,v2
+A0567,find_nearest,pharmacy,2026-11-20,48.869603,2.375979,P0206,,32 Rue de Vaucouleurs,75011,48.869895,2.377085,open,pharmacy,,v2
+A0568,address_lookup,school,2026-11-20,48.859997,2.380333,P0801,,10B Rue Duranti,75011,48.858003,2.380102,,school,,v2
+A0569,category_search,pharmacy,2026-11-20,48.866166,2.377174,P0099,,53 Avenue de la République,75011,48.864876,2.377488,open,pharmacy,,v2
+A0570,find_nearest,pharmacy,2026-11-20,48.855344,2.367333,P0061,,46 Boulevard Beaumarchais,75011,48.856881,2.368479,open,pharmacy,,v2
+A0571,find_nearest,pharmacy,2026-11-20,48.864707,2.37617,P0445,,33 Avenue de la République,75011,48.86567,2.373175,open,pharmacy,,v2
+A0572,address_lookup,school,2026-11-20,48.865517,2.378538,P0656,,2 Rue Dranem,75011,48.865421,2.379974,,school,,v2
+A0573,opening_status,pharmacy,2026-11-20,48.851737,2.389982,P0074,,305 Rue du Faubourg Saint-Antoine,75011,48.849015,2.392429,open now,pharmacy,yes,v2
+A0574,category_search,pharmacy,2026-11-20,48.849612,2.386719,P0502,P0259,191 Rue du Faubourg Saint-Antoine,75011,48.850466,2.381872,open,pharmacy,,v2
+A0575,find_nearest,pharmacy,2026-11-20,48.860262,2.384394,P0090,,26 Rue Camille Desmoulins,75011,48.859323,2.38257,open,pharmacy,,v2
+A0576,address_lookup,pharmacy,2026-11-20,48.862338,2.3826,P0103,,65 Rue Saint-Maur,75011,48.862882,2.379359,,pharmacy,,v2
+A0577,opening_status,pharmacy,2026-11-20,48.860707,2.378132,P0101,,81 Rue de la Roquette,75011,48.856885,2.378026,open now,pharmacy,yes,v2
+A0578,find_nearest,school,2026-11-20,48.853102,2.392559,P0588,,39 Rue Alexandre Dumas,75011,48.853742,2.393239,open,school,,v2
+A0579,opening_status,pharmacy,2026-11-20,48.858164,2.372131,P0096,,41 Rue Popincourt,75011,48.859119,2.375986,open now,pharmacy,no,v2
+A0580,opening_status,pharmacy,2026-11-20,48.867413,2.372561,P0445,,33 Avenue de la République,75011,48.865684,2.37319,open now,pharmacy,yes,v2
+A0581,find_nearest,pharmacy,2026-11-20,48.87023,2.377362,P0206,,32 Rue de Vaucouleurs,75011,48.869857,2.377087,open,pharmacy,,v2
+A0582,find_nearest,pharmacy,2026-11-20,48.857438,2.372869,P0114,,26 Boulevard Richard Lenoir,75011,48.856555,2.371119,open,pharmacy,,v2
+A0583,category_search,pharmacy,2026-11-20,48.858293,2.376527,P0100,,51B Rue de la Roquette,75011,48.855788,2.375011,open,pharmacy,,v2
+A0584,address_lookup,pharmacy,2026-11-20,48.862244,2.377275,P0076,,24 Rue de la Folie-Méricourt,75011,48.862663,2.373519,,pharmacy,,v2
+A0585,opening_status,pharmacy,2026-11-20,48.850566,2.380503,P0073,,191 Rue du Faubourg Saint-Antoine,75011,48.850552,2.381915,open now,pharmacy,no,v2
+A0586,category_search,pharmacy,2026-11-20,48.863474,2.376454,NONE,,20 Rue Saint-Ambroise,75011,48.862485,2.378283,open,pharmacy,,v2
+A0587,opening_status,pharmacy,2026-11-20,48.863781,2.373235,P0087,,39 Rue Oberkampf,75011,48.864352,2.37132,open now,pharmacy,yes,v2
+A0588,category_search,pharmacy,2026-11-20,48.871656,2.368566,P0053,,137 Avenue Parmentier,75011,48.870129,2.37077,open,pharmacy,,v2
+A0589,find_nearest,pharmacy,2026-11-20,48.868199,2.369673,NONE,,11 Rue de l'Orillon,75011,48.869786,2.374714,open,pharmacy,,v2
+A0590,category_search,pharmacy,2026-11-20,48.862001,2.380574,P0103,,65 Rue Saint-Maur,75011,48.862842,2.379415,open,pharmacy,,v2
+A0591,address_lookup,school,2026-11-20,48.852068,2.381214,P0620,,18 Rue Faidherbe,75011,48.851587,2.384009,,school,,v2
+A0592,category_search,pharmacy,2026-11-20,48.868738,2.383912,P0063,,43 Boulevard de Belleville,75011,48.869178,2.380059,open,pharmacy,,v2
+A0593,find_nearest,school,2026-11-20,48.850416,2.387351,P0653,,46 Rue de Montreuil,75011,48.850373,2.388412,open,school,,v2
+A0594,find_nearest,school,2026-11-20,48.854849,2.379793,P0573,,16 Rue Basfroi,75011,48.854506,2.379769,open,school,,v2
+A0595,category_search,pharmacy,2026-11-20,48.847172,2.383281,P0142,,35 Rue de Reuilly,75011,48.847168,2.38714,open,pharmacy,,v2
+A0596,address_lookup,school,2026-11-20,48.85986,2.384432,P0628,,10B Rue Duranti,75011,48.8606,2.383921,,school,,v2
+A0597,opening_status,pharmacy,2026-11-20,48.857983,2.389921,P0067,,136 Rue de Charonne,75011,48.855194,2.388216,open now,pharmacy,yes,v2
+A0598,opening_status,pharmacy,2026-11-20,48.862095,2.370324,P0107,,29 Boulevard Voltaire,75011,48.864823,2.368661,open now,pharmacy,yes,v2
+A0599,category_search,pharmacy,2026-11-20,48.866397,2.365259,P0530,P0257,7 Rue des Trois Bornes,75011,48.86629,2.371291,open,pharmacy,,v2
+A0600,category_search,pharmacy,2026-11-20,48.867458,2.369252,P0087,,39 Rue Oberkampf,75011,48.86435,2.371237,open,pharmacy,,v2

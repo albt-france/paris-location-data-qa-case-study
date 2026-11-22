@@ -1,0 +1,3 @@
+version,effective_from,change
+v1,2026-11-02,"Initial rubric: correct / minor / major / cannot_verify; no rule for missing opening hours, places absent from the registry, or position thresholds."
+v2,2026-11-12,"Added: (1) missing hours when the status is otherwise right = minor_issue; (2) absent from the official registry is not proof of error: confirm in a second independent source (correct) or answer cannot_verify; (3) pin vs BAN geocode: <150 m ok, 150-300 m minor_issue, >=300 m major_issue."

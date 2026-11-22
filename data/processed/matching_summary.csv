@@ -1,0 +1,13 @@
+theme,source,other_source,records,matched,pct_matched,median_dist_m
+pharmacy,FINESS,OSM,59,56,94.9,4.5
+pharmacy,FINESS,OVERTURE,59,53,89.8,1.6
+pharmacy,OSM,FINESS,56,55,98.2,4.5
+pharmacy,OSM,OVERTURE,56,52,92.9,5.9
+pharmacy,OVERTURE,FINESS,77,61,79.2,2.4
+pharmacy,OVERTURE,OSM,77,59,76.6,5.9
+school,EDU,OSM,84,52,61.9,15.6
+school,EDU,OVERTURE,84,37,44.0,9.9
+school,OSM,EDU,60,38,63.3,16.5
+school,OSM,OVERTURE,60,21,35.0,19.5
+school,OVERTURE,EDU,56,30,53.6,11.1
+school,OVERTURE,OSM,56,28,50.0,16.7

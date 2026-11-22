@@ -1,0 +1,9 @@
+guidelines_version,r1_verdict,r2_correct,r2_minor_issue,r2_major_issue,r2_cannot_verify
+v1,correct,175.0,11.0,9.0,5.0
+v1,minor_issue,12.0,27.0,24.0,0.0
+v1,major_issue,0.0,6.0,37.0,1.0
+v1,cannot_verify,1.0,0.0,2.0,0.0
+v2,correct,182.0,5.0,0.0,4.0
+v2,minor_issue,5.0,37.0,1.0,1.0
+v2,major_issue,0.0,5.0,39.0,0.0
+v2,cannot_verify,4.0,0.0,0.0,7.0
