@@ -1,5 +1,7 @@
 # Can you trust the map? Auditing AI-generated local answers in one Paris district
 
+**[Report (PDF, 6 pages)](https://albt-france.github.io/paris-location-data-qa-case-study/report/Location_QA_audit_Paris11.pdf)** · **[Dashboard (interactive map)](https://albt-france.github.io/paris-location-data-qa-case-study/map/)**
+
 A short case study for an AI-training map & location QA role: checking addresses, place names and map positions produced by a (simulated) AI assistant, flagging false, outdated or misleading information, and writing annotation guidelines that give the same verdict whoever applies them.
 
 **Area:** Paris 11e (OSM relation 9533, INSEE 75111) · **Themes:** pharmacies, schools, addresses · **Desk research only** (no field visit).
@@ -8,7 +10,7 @@ A short case study for an AI-training map & location QA role: checking addresses
 | Deliverable | Link |
 |---|---|
 | Report (6 pages) | [report/Location_QA_audit_Paris11.pdf](report/Location_QA_audit_Paris11.pdf) |
-| Interactive map (open locally in a browser) | [map/index.html](map/index.html) |
+| Dashboard: interactive map | [online](https://albt-france.github.io/paris-location-data-qa-case-study/map/) · [map/index.html](map/index.html) |
 | QA workbook: taxonomy, rubric, audit log of 600 answers, agreement, summary | [qa/location_qa_workbook.xlsx](qa/location_qa_workbook.xlsx) |
 | Annotation guidelines v2 (10 examples, 3 worked step by step) | [docs/annotation_guidelines.md](docs/annotation_guidelines.md) |
 | Checklist per task (6 steps, under 2 minutes) | [docs/checklist_per_task.md](docs/checklist_per_task.md) |
